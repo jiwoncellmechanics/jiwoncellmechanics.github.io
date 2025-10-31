@@ -2,4 +2,6 @@
 layout: page
 title: News
 ---
-여기에 논문 리스트…
+
+- Jiwon chosen Rising Star in Mechanical Engineering (October 2025)
+- Jiwon selected as one of the Hibbitt Engineering Fellows (2023-2025)
