@@ -1,7 +1,10 @@
-remote_theme: "mmistakes/minimal-mistakes@4.27.3"
-title: Jiwon Kim, Ph. D.
+title: "Jiwon Kim, Ph. D."
 description: 
-logo: /profile.png
+url: "https://jiwoncellmechanics.github.io"
+baseurl: ""
+
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 plugins:
   - jekyll-include-cache
+
