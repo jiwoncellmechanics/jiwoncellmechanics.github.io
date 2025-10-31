@@ -115,16 +115,17 @@ analytics:
 author:
   name             : "Jiwon Kim"
   avatar           : "assets/selfie.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Postdoc @Wong Lab, Brown University."
+  bio              : "Postdoc @Wong Lab, Brown"
   location         : "Providence, RI"
-  email            : 
+  email            : "jiwon_kim1@brown.edu"
+  
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:jiwon_kim1@brown.edu"
-    - label: "Website"
+    - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      # url: "https://scholar.google.co.kr/citations?user=gdrZ_zYAAAAJ&hl"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
