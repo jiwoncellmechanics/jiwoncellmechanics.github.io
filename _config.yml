@@ -2,3 +2,5 @@ theme: jekyll-theme-minimal
 title: Jiwon Kim, Ph. D.
 description: 
 logo: /profile.png
+
+plugins: jekyll-include-cache
