@@ -3,4 +3,5 @@ title: Jiwon Kim, Ph. D.
 description: 
 logo: /profile.png
 
-plugins: jekyll-include-cache
+plugins:
+  - jekyll-include-cache
