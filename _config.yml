@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 title: Jiwon Kim, Ph. D.
 description: 
 logo: /profile.png
