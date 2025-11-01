@@ -2,18 +2,24 @@
 layout: home
 title: "Education"
 author_profile: true
-tags: [Mechanical Engineering, Biomedical Engineering, Cell mechanics, Mechanobiology, Multicellular spheroid, Biomaterial, Collective cell migration, Image processing, Microfluidics]
 show_tags: true
+tags: [Mechanical Engineering, Biomedical Engineering, Cell mechanics, Mechanobiology, Multicellular spheroid, Biomaterial, Collective cell migration, Image processing, Microfluidics]
 ---
 
 <style>
-.cv-grid{display:grid;grid-template-columns:1fr auto;gap:.4rem 2rem;margin:1rem 0;font-size: 0.85rem;}
-.cv-left{line-height:1.35}
-.cv-right{text-align:right;white-space:nowrap}
-.cv-item{display:contents}
-.cv-left h3{margin:0;font-weight:800}
-.cv-left .inst{font-weight:700}
-.cv-left .sub{font-style:normal}
+.cv-grid {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: .4rem 2rem;
+  margin: 1rem 0;
+  font-size: 0.85rem;
+}
+.cv-left { line-height: 1.35; }
+.cv-right { text-align: right; white-space: nowrap; }
+.cv-item { display: contents; }
+.cv-left h3 { margin: 0; font-weight: 800; }
+.cv-left .inst { font-weight: 700; }
+.cv-left .sub { font-style: normal; }
 </style>
 
 <div class="cv-grid">
@@ -22,7 +28,12 @@ show_tags: true
     <div class="cv-left">
       <h3>Hibbitt Postdoctoral Fellow in Engineering</h3>
       <div class="inst">Brown University</div>
-      <div class="sub">Advisor: [Prof. Ian Y. Wong]("https://sites.brown.edu/wonglab/")</div>
+      <div class="sub">
+        Advisor:
+        <a href="https://sites.brown.edu/wonglab/" target="_blank">
+          Prof. Ian Y. Wong
+        </a>
+      </div>
     </div>
     <div class="cv-right">
       Jun. 2023 – present <br> Providence, RI, USA
@@ -36,10 +47,15 @@ show_tags: true
       <div class="sub">
         Dissertation:
         <a href="https://library.kaist.ac.kr/search/ctlgSearch/posesn/view.do?bibctrlno=1030346&se=t0&ty=B&_csrf=77b66785-09ab-475c-8419-089c4937f322" target="_blank">
-        Dynamic Behaviors of <em>In Vitro</em> Pathophysiological Models
-      </a>
-</div>
-      <div class="sub">Advisor: [Prof. Jennifer H. Shin]("https://softbm.kaist.ac.kr")</div>
+          Dynamic Behaviors of <em>In Vitro</em> Pathophysiological Models
+        </a>
+      </div>
+      <div class="sub">
+        Advisor:
+        <a href="https://softbm.kaist.ac.kr" target="_blank">
+          Prof. Jennifer H. Shin
+        </a>
+      </div>
     </div>
     <div class="cv-right">
       Mar. 2018 – Feb. 2023 <br> Daejeon, Republic of Korea
@@ -51,12 +67,17 @@ show_tags: true
       <h3>M.S. in Mechanical Engineering</h3>
       <div class="inst">Korea Advanced Institute of Science and Technology (KAIST)</div>
       <div class="sub">
-        Dissertation:
+        Thesis:
         <a href="https://library.kaist.ac.kr/search/ctlgSearch/posesn/view.do?bibctrlno=733714&se=t0&ty=B&_csrf=77b66785-09ab-475c-8419-089c4937f322" target="_blank">
-        Thesis: Correlations between Spheroidal Phenotype and Functionality as Cancer Model
+          Correlations between Spheroidal Phenotype and Functionality as Cancer Model
         </a>
-      <div class="sub">Thesis: Correlations between Spheroidal Phenotype and Functionality as Cancer Model</div>
-      <div class="sub">Advisor: [Prof. Jennifer H. Shin]("https://softbm.kaist.ac.kr")</div>
+      </div>
+      <div class="sub">
+        Advisor:
+        <a href="https://softbm.kaist.ac.kr" target="_blank">
+          Prof. Jennifer H. Shin
+        </a>
+      </div>
     </div>
     <div class="cv-right">
       Mar. 2016 – Feb. 2018 <br> Daejeon, Republic of Korea
@@ -76,5 +97,6 @@ show_tags: true
   </div>
 
 </div>
+
 
 
