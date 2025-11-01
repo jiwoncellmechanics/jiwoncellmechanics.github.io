@@ -2,8 +2,6 @@
 layout: home
 title: "Education"
 author_profile: true
-show_tags: true
-tags: [Mechanical Engineering, Biomedical Engineering, Cell mechanics, Mechanobiology, Multicellular spheroid, Biomaterial, Collective cell migration, Image processing, Microfluidics]
 ---
 
 <style>
@@ -98,5 +96,6 @@ tags: [Mechanical Engineering, Biomedical Engineering, Cell mechanics, Mechanobi
 
 </div>
 
-
+<hr>
+<p><strong>Tags:</strong> Mechanical Engineering, Biomedical Engineering, Cell mechanics, Mechanobiology, Multicellular spheroid, Biomaterial, Collective cell migration, Image processing, Microfluidics</p>
 
