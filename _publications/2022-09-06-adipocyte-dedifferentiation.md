@@ -8,7 +8,7 @@ tags: [Microfluidics, Ceiling culture, Live-cell imaging, Adipocyte, Adipocyte d
 
 <div style="text-align:center;">
   <video width="600" controls loop muted>
-    <source src="/assets/adipocyte-1.mp4" type="video/mp4">
+    <source src="/assets/adipocyte-2.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
