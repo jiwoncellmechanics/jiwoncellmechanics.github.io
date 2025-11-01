@@ -97,5 +97,5 @@ author_profile: true
 </div>
 
 <hr>
-<p><strong>Research Keywords:</strong> Mechanical Engineering, Biomedical Engineering, Cell mechanics, Mechanobiology, Multicellular spheroid, Biomaterial, Collective cell migration, Image processing, Microfluidics</p>
+<p><strong>Research Keywords:</strong> Mechanical Engineering, Biomedical Engineering, Cell mechanics, Mechanobiology, 3D Multicellular spheroid, Biomaterial, Collective cell migration, Live-cell imaging, Image processing, Microfluidics</p>
 
