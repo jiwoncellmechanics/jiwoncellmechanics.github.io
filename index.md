@@ -12,7 +12,7 @@ tags: [Mechanical Engineering, Biomedical Engineering, Cell mechanics, Mechanobi
 .cv-item{display:contents}
 .cv-left h3{margin:0;font-weight:800}
 .cv-left .inst{font-weight:700}
-.cv-left .sub{font-style:italic}
+.cv-left .sub{font-style:normal}
 </style>
 
 <div class="cv-grid">
@@ -65,6 +65,9 @@ tags: [Mechanical Engineering, Biomedical Engineering, Cell mechanics, Mechanobi
   </div>
 
 </div>
+
+
+show_tags: true
 
 
 
