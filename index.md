@@ -32,7 +32,7 @@ tags: [Mechanical Engineering, Biomedical Engineering, Cell mechanics, Mechanobi
     <div class="cv-left">
       <h3>Ph.D. in Mechanical Engineering</h3>
       <div class="inst">Korea Advanced Institute of Science and Technology (KAIST)</div>
-      <div class="sub1">
+      <div class="sub">
         Dissertation:
         <a href="https://library.kaist.ac.kr/search/ctlgSearch/posesn/view.do?bibctrlno=1030346&se=t0&ty=B&_csrf=77b66785-09ab-475c-8419-089c4937f322" target="_blank">
         Dynamic Behaviors of <em>In Vitro</em> Pathophysiological Models
@@ -49,6 +49,11 @@ tags: [Mechanical Engineering, Biomedical Engineering, Cell mechanics, Mechanobi
     <div class="cv-left">
       <h3>M.S. in Mechanical Engineering</h3>
       <div class="inst">Korea Advanced Institute of Science and Technology (KAIST)</div>
+      <div class="sub">
+        Dissertation:
+        <a href="https://library.kaist.ac.kr/search/ctlgSearch/posesn/view.do?bibctrlno=733714&se=t0&ty=B&_csrf=77b66785-09ab-475c-8419-089c4937f322" target="_blank">
+        Thesis: Correlations between Spheroidal Phenotype and Functionality as Cancer Model
+        </a>
       <div class="sub">Thesis: Correlations between Spheroidal Phenotype and Functionality as Cancer Model</div>
       <div class="sub">Advisor: Prof. Jennifer H. Shin</div>
     </div>
