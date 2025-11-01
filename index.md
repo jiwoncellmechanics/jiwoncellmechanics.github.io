@@ -1,12 +1,12 @@
 ---
 layout: home
-title: "Education👩🏻‍🎓"
+title: "Education"
 author_profile: true
 tags: [Mechanical Engineering, Biomedical Engineering, Cell mechanics, Mechanobiology, Multicellular spheroid, Biomaterial, Collective cell migration, Image processing, Microfluidics]
 ---
 
 <style>
-.cv-grid{display:grid;grid-template-columns:1fr auto;gap:.4rem 2rem;margin:1rem 0}
+.cv-grid{display:grid;grid-template-columns:1fr auto;gap:.4rem 2rem;margin:1rem 0;font-size: 0.85rem;}
 .cv-left{line-height:1.35}
 .cv-right{text-align:right;white-space:nowrap}
 .cv-item{display:contents}
