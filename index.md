@@ -3,6 +3,7 @@ layout: home
 title: "Education"
 author_profile: true
 tags: [Mechanical Engineering, Biomedical Engineering, Cell mechanics, Mechanobiology, Multicellular spheroid, Biomaterial, Collective cell migration, Image processing, Microfluidics]
+show_tags: true
 ---
 
 <style>
@@ -21,7 +22,7 @@ tags: [Mechanical Engineering, Biomedical Engineering, Cell mechanics, Mechanobi
     <div class="cv-left">
       <h3>Hibbitt Postdoctoral Fellow in Engineering</h3>
       <div class="inst">Brown University</div>
-      <div class="sub">Advisor: Prof. Ian Y. Wong</div>
+      <div class="sub">Advisor: [Prof. Ian Y. Wong]("https://sites.brown.edu/wonglab/")</div>
     </div>
     <div class="cv-right">
       Jun. 2023 – present <br> Providence, RI, USA
@@ -38,7 +39,7 @@ tags: [Mechanical Engineering, Biomedical Engineering, Cell mechanics, Mechanobi
         Dynamic Behaviors of <em>In Vitro</em> Pathophysiological Models
       </a>
 </div>
-      <div class="sub">Advisor: Prof. Jennifer H. Shin</div>
+      <div class="sub">Advisor: [Prof. Jennifer H. Shin]("https://softbm.kaist.ac.kr")</div>
     </div>
     <div class="cv-right">
       Mar. 2018 – Feb. 2023 <br> Daejeon, Republic of Korea
@@ -55,7 +56,7 @@ tags: [Mechanical Engineering, Biomedical Engineering, Cell mechanics, Mechanobi
         Thesis: Correlations between Spheroidal Phenotype and Functionality as Cancer Model
         </a>
       <div class="sub">Thesis: Correlations between Spheroidal Phenotype and Functionality as Cancer Model</div>
-      <div class="sub">Advisor: Prof. Jennifer H. Shin</div>
+      <div class="sub">Advisor: [Prof. Jennifer H. Shin]("https://softbm.kaist.ac.kr")</div>
     </div>
     <div class="cv-right">
       Mar. 2016 – Feb. 2018 <br> Daejeon, Republic of Korea
@@ -75,9 +76,5 @@ tags: [Mechanical Engineering, Biomedical Engineering, Cell mechanics, Mechanobi
   </div>
 
 </div>
-
-
-show_tags: true
-
 
 
