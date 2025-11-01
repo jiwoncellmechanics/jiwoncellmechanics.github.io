@@ -122,7 +122,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:jiwon_kim1@brown.edu"
+      #url: "mailto:jiwon_kim1@brown.edu"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
       url: "https://scholar.google.co.kr/citations?user=gdrZ_zYAAAAJ&hl"
