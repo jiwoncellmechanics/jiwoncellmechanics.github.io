@@ -332,18 +332,12 @@ collections:
   publications:
     output: true
     permalink: /publications/:title/
-
-collections:
   invitedtalks:
     output: true
     permalink: /invitedtalks/:title/
-
-collections:
   news:
     output: true
     permalink: /news/:title/
-
-collections:
   miscellaneous:
     output: true
     permalink: /miscellaneous/:title/
