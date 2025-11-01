@@ -1,10 +1,9 @@
 ---
 layout: home
-title: "Home"
+title: "Education👩🏻‍🎓"
 author_profile: true
+tags: [Mechanical Engineering, Biomedical Engineering, Cell mechanics, Mechanobiology, Multicellular spheroid, Biomaterial, Collective cell migration, Image processing, Microfluidics]
 ---
-
-#Education👩🏻‍🎓
 
 Hibbitt Postdoctoral Fellow in Engineering
 Brown University
@@ -34,4 +33,3 @@ Summa Cum Laude
 Advisor: Prof. Naksoo Kim
 
 
-[Google Scholar](https://scholar.google.co.kr/citations?user=gdrZ_zYAAAAJ&hl=ko) · [ORCID](https://orcid.org/0000-0003-0787-2840) · [Email](mailto:jiwon_kim1@brown.edu)
