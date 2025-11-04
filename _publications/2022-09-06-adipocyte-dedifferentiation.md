@@ -2,8 +2,8 @@
 layout: single
 title: "Ceiling culture chip reveals dynamic lipid droplet transport during adipocyte dedifferentiation via actin remodeling"
 permalink: /publications/
-date: 2020-09-06
-tags: [Microfluidics, Ceiling culture, Live-cell imaging, Adipocyte, Adipocyte dedifferentiation, lipid droplet, actin, PPARg]
+date: 2022-09-06
+tags: [Microfluidics, Ceiling Culture, Live-cell Imaging, Adipocyte, Adipocyte Dedifferentiation, Lipid Droplet, Actin, PPARg]
 ---
 
 
