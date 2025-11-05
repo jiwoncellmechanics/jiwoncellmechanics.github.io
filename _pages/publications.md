@@ -6,5 +6,3 @@ entries_layout: grid
 permalink: /publications/
 author_profile: true
 ---
-
-Total: {{ site.publications | size }}
