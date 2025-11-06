@@ -6,8 +6,8 @@ tags: [Microfluidics, Ceiling Culture, Live-cell Imaging, Adipocyte, Adipocyte D
 teaser: /assets/image147.gif
 ---
 
-It was once believed that fat cells (adipocytes) are *terminally* differentiated.
-The term *terminal* implies that the form and function of the cells are fixed forever and they cannot be reversed into status with greater potentials (stemness).
+It was once believed that fat cells (adipocytes) were *terminally* differentiated.
+The term *terminal* implies that the form and function of the cells are fixed forever and cannot be reversed into a state with greater potentials (stemness).
 
 <div style="text-align:center;">
   <img src="/assets/adipocyte_wiki.jpg" width="600">
@@ -17,14 +17,14 @@ The term *terminal* implies that the form and function of the cells are fixed fo
   </p>
 </div>
 
-However, recent studies revealed that adipocytes can be reversed into stem cells under certain conditions. Dedifferentiated adipocytes (DFATs) can be differentiated into bone cells, cartilage cells, muscle cells, and blood vessel cells: **_Someday, you can replace broken part of your body with your excessive fat!_**
+However, recent studies have revealed that adipocytes can be reversed into stem cells under certain conditions. Dedifferentiated adipocytes (DFATs) can differentiate into bone cells, cartilage cells, muscle cells, and blood vessel cells: **_Someday, you might replace broken part of your body with your excess fat!_**
 
-But nobody has witnessed how a fat cell spit out its fat pocket and become a stem cell, mainly because of following two reasons:
+But nobody has witnessed how a fat cell spits out its fat pocket and becomes a stem cell, mainly because of following two reasons:
 
-(1) Once a adipocyte discharge the lipid droplet, it just looks like fibroblasts. You can't tell if it's a dedifferentiated adipocytes or fibroblast.
-Our team resolved this issue using *Adipoq-Cre; mT/mG* system. Long story short, a cell that has a history of being an adipocytes expresses **<span style="color:green;">green</span>** signal while all the other cells are **<span style="color:red;">red.</span>**
+(1) Once an adipocyte discharges its lipid droplet, it just looks like a fibroblast. You can't tell if it's a dedifferentiated adipocytes or a fibroblast.
+Our team resolved this issue using *Adipoq-Cre; mT/mG* system. Long story short, a cell that has a history of being an adipocytes expresses **<span style="color:green;">green</span>** fluorescences while all the other cells are **<span style="color:red;">red.</span>**
 
-(2) Adipocytes have low specific gravity, so they float on the cell culture media. However if they stay floating, they soon die (tricky ones!). Sugihara came up witt *ceiling culture* method, where the culture flask is completely filled with culture medium so that the adipocytes can attach and grown on the ceiling surface.
+(2) Adipocytes have low specific gravity, so they float on the cell culture medium. However if they stay floating, they soon die (tricky ones!). Sugihara came up with *ceiling culture* method, where the culture flask is completely filled with medium so that the adipocytes can attach and grow on the ceiling surface.
 
 <div style="display: flex; justify-content: center; gap: 1rem;">
   <div style="text-align:center;">
@@ -37,7 +37,7 @@ Our team resolved this issue using *Adipoq-Cre; mT/mG* system. Long story short,
   </div>
 </div>
 
-Ceiling culture method is a clever solution. Unfortunately, standard culture flasks are too big to fit in working distances of high-magnification and also rather wasteful.
+The ceiling culture method is a clever solution. Unfortunately, standard culture flasks are too big to fit within the working distances of high-magnification objectives and are also rather wasteful.
 
 Microfluidics? but they just flow away in 1-layered channel
 <div style="text-align:center;">
