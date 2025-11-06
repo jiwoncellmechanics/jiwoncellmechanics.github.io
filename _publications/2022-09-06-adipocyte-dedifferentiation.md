@@ -3,7 +3,7 @@ layout: single
 title: "When a Fat Cell Spits Out Its Fat Pocket and Becomes a Stem Cell"
 date: 2022-09-06
 tags: [Microfluidics, Ceiling Culture, Live-cell Imaging, Adipocyte, Adipocyte Dedifferentiation, Lipid Droplet, Actin, PPARg]
-teaser: /assets/images/image147.gif
+teaser: /assets/image147.gif
 ---
 
 
