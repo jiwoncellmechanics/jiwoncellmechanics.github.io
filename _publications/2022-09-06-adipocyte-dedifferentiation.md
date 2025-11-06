@@ -28,7 +28,7 @@ Our team resolved this issue using *Adipoq-Cre; mT/mG* system. Long story short,
 
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 1rem;">
   <div style="text-align:center; flex:1;">
-    <img src="/assets/image48.png" width="250">
+    <img src="/assets/image48.png" width="150">
     <p style="font-size:0.8rem; color:#777;">Floating adipocytes (white layer) on the culture media.</p>
   </div>
   <div style="text-align:center; flex:1;">
@@ -53,7 +53,7 @@ Our simple innovation was to make the microfluidic chip **two-layered**. This st
 With our chip (which we named *ceiling culuture chip*), we explored different ECM conditions, and molecular interventions. Interestingly, we found that conditions promoting adipocyte differentiation inhibit adipocyte **de**differentiation, and *vice versa.* Check out our paper below for more scientific details.
 
 <div style="text-align:center;">
-  <img src="/assets/fabrication2.png" width="400">
+  <img src="/assets/fabrication2.png" width="600">
   <p style="font-size:0.8rem; color:#777;">Fabrication of <em>Ceiling Culture Chip</em></p>
 </div>
 
