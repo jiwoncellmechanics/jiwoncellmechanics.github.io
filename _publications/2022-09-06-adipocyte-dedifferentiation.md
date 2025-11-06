@@ -26,15 +26,19 @@ But nobody has witnessed how a fat cell spit out its fat pocket and become a ste
 (1) Once a adipocyte discharge the lipid droplet, it just looks like fibroblasts. You can't tell if it's a dedifferentiated adipocytes or fibroblast.
 Our team resolved this issue using *Adipoq-Cre; mT/mG* system. Long story short, a cell that has a history of being an adipocytes expresses **<span style="color:green;">green</span>** signal while all the other cells are **<span style="color:red;">red.</span>**
 
-(2) Adipocytes have low specific gravity, which causes them to float in cell culture media. On the top of that,
+(2) Adipocytes have low specific gravity, which causes them to float in cell culture media. On the top of that, i
 
-<div style="text-align:center;">
-  <img src="/assets/image48.png" width="300">
-  <p style="font-size:0.85rem; color:#777; margin-top:0.5rem;">
-    Floating adipocytes (white layer) on the culture media.
-  </p>
+
+<div style="display: flex; justify-content: center; gap: 1rem;">
+  <div style="text-align:center;">
+    <img src="/assets/image48.png" width="300">
+    <p style="font-size:0.8rem; color:#777;">Floating adipocytes (white layer) on the culture media.</p>
+  </div>
+  <div style="text-align:center;">
+    <img src="/assets/image52.png" width="300">
+    <p style="font-size:0.8rem; color:#777;">Ceiling culture (Sugiharha, H., *Differentiation* (1986)</p>
+  </div>
 </div>
-
 
 
 Microfluidics? but they just flow away in 1-layered channel
