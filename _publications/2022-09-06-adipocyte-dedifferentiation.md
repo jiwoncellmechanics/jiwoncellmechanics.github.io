@@ -13,8 +13,6 @@ The term *terminal* implies that the form and function of the cells are fixed fo
   <img src="/assets/adipocyte_wiki.jpg" width="600">
   <p style="font-size:0.85rem; color:#777; margin-top:0.5rem;">
    Fat cells look like bubbles, filled with fat.
-  </p>
-  <p style="font-size:0.85rem; color:#777;">
    Image courtesy: Department of Histology, Jagiellonian University Medical College.
   </p>
 </div>
