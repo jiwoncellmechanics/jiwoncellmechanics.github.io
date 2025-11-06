@@ -4,6 +4,8 @@ title: "When a Fat Cell Spits Out Its Fat Pocket and Becomes a Stem Cell"
 date: 2022-09-06
 tags: [Microfluidics, Ceiling Culture, Live-cell Imaging, Adipocyte, Adipocyte Dedifferentiation, Lipid Droplet, Actin, PPARg]
 teaser: /assets/image147.gif
+header:
+  teaser: /assets/image147.gif
 ---
 
 It was once believed that fat cells (adipocytes) were *terminally* differentiated.
