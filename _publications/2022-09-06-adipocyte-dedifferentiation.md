@@ -11,19 +11,23 @@ The term terminal implies that the form and function of the cells are fixed fore
 
 <div style="text-align:center;">
   <img src="/assets/adipocyte_wiki.jpg">
-  <p style="font-size:0.85rem; color:#777; margin-top:0.5rem;">
-    Courtesy: Department of Histology, Jagiellonian University Medical College.
+  <p style="font-size:0.5rem; color:#777; margin-top:0.5rem;">
+    Courtesy: Department of Histology, Jagiellonian University Medical College. Fat cells are basically bubbles filled with fat.
   </p>
 </div>
 
-
-
 However, recent studies revealed that adipocytes can be reversed into stem cells under certain conditions.
 
-Dedifferentiated adipocytes (DFATs) can be differentiated into bone cells, cartilage cells, muscle cells, and blood vessel cells: Someday, you can replace broken part of your body with your excessive fat!
+Dedifferentiated adipocytes (DFATs) can be differentiated into bone cells, cartilage cells, muscle cells, and blood vessel cells: **_Someday, you can replace broken part of your body with your excessive fat!_**
 
-But nobody has witnessed the transition from fat cell to stem cell, because adipocytes float!
+But nobody has witnessed the transition from fat cell to stem cell, because adipocytes float.
 
+<div style="text-align:center;">
+  <img src="/assets/image48.png">
+  <p style="font-size:0.5rem; color:#777; margin-top:0.5rem;">
+    Floating adipocytes (white layer) on the culture media.
+  </p>
+</div>
 
 
 
