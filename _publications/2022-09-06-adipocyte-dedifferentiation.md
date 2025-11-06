@@ -24,20 +24,20 @@ But nobody has witnessed how a fat cell spit out its fat pocket and become a ste
 (1) Once a adipocyte discharge the lipid droplet, it just looks like fibroblasts. You can't tell if it's a dedifferentiated adipocytes or fibroblast.
 Our team resolved this issue using *Adipoq-Cre; mT/mG* system. Long story short, a cell that has a history of being an adipocytes expresses **<span style="color:green;">green</span>** signal while all the other cells are **<span style="color:red;">red.</span>**
 
-(2) Adipocytes have low specific gravity, which causes them to float in cell culture media. On the top of that, i
-
+(2) Adipocytes have low specific gravity, so they float on the cell culture media. However if they stay floating, they soon die (tricky ones!). Sugihara came up witt *ceiling culture* method, where the culture flask is completely filled with culture medium so that the adipocytes can attach and grown on the ceiling surface.
 
 <div style="display: flex; justify-content: center; gap: 1rem;">
   <div style="text-align:center;">
-    <img src="/assets/image48.png" height="200">
+    <img src="/assets/image48.png" height="20">
     <p style="font-size:0.8rem; color:#777;">Floating adipocytes (white layer) on the culture media.</p>
   </div>
   <div style="text-align:center;">
-    <img src="/assets/image52.png" height="200">
-    <p style="font-size:0.8rem; color:#777;">Ceiling culture (Sugiharha, H., *Differentiation* (1986)</p>
+    <img src="/assets/image52.png" height="20">
+    <p style="font-size:0.8rem; color:#777;">Ceiling culture (Sugihara, H., *Differentiation* (1986)</p>
   </div>
 </div>
 
+Ceiling culture method is a clever solution. Unfortunately, standard culture flasks are too big to fit in working distances of high-magnification and also rather wasteful.
 
 Microfluidics? but they just flow away in 1-layered channel
 <div style="text-align:center;">
