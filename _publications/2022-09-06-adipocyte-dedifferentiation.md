@@ -29,11 +29,11 @@ Our team resolved this issue using *Adipoq-Cre; mT/mG* system. Long story short,
 
 <div style="display: flex; justify-content: center; gap: 1rem;">
   <div style="text-align:center;">
-    <img src="/assets/image48.png" width="300">
+    <img src="/assets/image48.png" height="200">
     <p style="font-size:0.8rem; color:#777;">Floating adipocytes (white layer) on the culture media.</p>
   </div>
   <div style="text-align:center;">
-    <img src="/assets/image52.png" width="300">
+    <img src="/assets/image52.png" height="200">
     <p style="font-size:0.8rem; color:#777;">Ceiling culture (Sugiharha, H., *Differentiation* (1986)</p>
   </div>
 </div>
