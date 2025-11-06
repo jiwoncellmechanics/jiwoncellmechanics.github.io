@@ -6,6 +6,17 @@ tags: [Microfluidics, Ceiling Culture, Live-cell Imaging, Adipocyte, Adipocyte D
 teaser: /assets/image147.gif
 ---
 
+It was once believed that mature adipocytes (fat cells) are *terminally* differentiated.
+The term terminal implies that now the form and function of this cell is fixed forever and they cannot revered into status with greater developmental potentials (stemness).
+ 
+However, recent studies revealed that adipocytes can be reversed into preadipocytes or mesenchymal stem cells under certain conditions.
+
+
+
+
+<div style="text-align:center;">
+  <img src="/assets/image61.gif">
+</div>
 
 
 Ceiling culture chip reveals dynamic lipid droplet transport during adipocyte dedifferentiation via actin remodeling
