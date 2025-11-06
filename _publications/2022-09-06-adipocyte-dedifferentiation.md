@@ -12,7 +12,7 @@ The term terminal implies that the form and function of the cells are fixed fore
 <div style="text-align:center;">
   <img src="/assets/adipocyte_wiki.jpg">
   <p style="font-size:0.5rem; color:#777; margin-top:0.5rem;">
-    Courtesy: Department of Histology, Jagiellonian University Medical College. Fat cells are basically bubbles filled with fat.
+   Fat cells are basically bubbles filled with fat. Image courtesy: Department of Histology, Jagiellonian University Medical College.
   </p>
 </div>
 
@@ -28,9 +28,6 @@ But nobody has witnessed the transition from fat cell to stem cell, because adip
     Floating adipocytes (white layer) on the culture media.
   </p>
 </div>
-
-
-
 
 Ceiling culture chip reveals dynamic lipid droplet transport during adipocyte dedifferentiation via actin remodeling
 
