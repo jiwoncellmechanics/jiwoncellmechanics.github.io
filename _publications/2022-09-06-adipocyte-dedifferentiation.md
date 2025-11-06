@@ -11,7 +11,7 @@ The term terminal implies that the form and function of the cells are fixed fore
 
 <div style="text-align:center;">
   <img src="/assets/adipocyte_wiki.jpg">
-  <p style="font-size:0.5rem; color:#777; margin-top:0.5rem;">
+  <p style="font-size:0.85rem; color:#777; margin-top:0.5rem;">
    Fat cells are basically bubbles filled with fat. Image courtesy: Department of Histology, Jagiellonian University Medical College.
   </p>
 </div>
@@ -23,8 +23,8 @@ Dedifferentiated adipocytes (DFATs) can be differentiated into bone cells, carti
 But nobody has witnessed the transition from fat cell to stem cell, because adipocytes float.
 
 <div style="text-align:center;">
-  <img src="/assets/image48.png">
-  <p style="font-size:0.5rem; color:#777; margin-top:0.5rem;">
+  <img src="/assets/image48.png" width = 600>
+  <p style="font-size:0.85rem; color:#777; margin-top:0.5rem;">
     Floating adipocytes (white layer) on the culture media.
   </p>
 </div>
