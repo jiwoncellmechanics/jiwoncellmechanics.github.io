@@ -14,7 +14,7 @@ The term *terminal* implies that the form and function of the cells are fixed fo
   <p style="font-size:0.85rem; color:#777; margin-top:0.5rem;">
    Fat cells look like bubbles, filled with fat.
   </p>
-  <p style="font-size:0.85rem; color:#777; margin-top:0.5rem;">
+  <p style="font-size:0.85rem; color:#777;">
    Image courtesy: Department of Histology, Jagiellonian University Medical College.
   </p>
 </div>
@@ -24,9 +24,9 @@ However, recent studies revealed that adipocytes can be reversed into stem cells
 But nobody has witnessed how a fat cell spit out its fat pocket and become a stem cell, mainly because of following two reasons:
 
 (1) Once a adipocyte discharge the lipid droplet, it just looks like fibroblasts. You can't tell if it's a dedifferentiated adipocytes or fibroblast.
-Our team resolved this issue using *Adipoq-Cre; mT/mG* system. Long story short, a cell that has a history of being an adipocytes expresses <span style="color:green;">green</span> signal while all the other cells are  <span style="color:red;">red.</span> 
+Our team resolved this issue using *Adipoq-Cre; mT/mG* system. Long story short, a cell that has a history of being an adipocytes expresses **<span style="color:green;">green</span>** signal while all the other cells are **<span style="color:red;">red.</span>**
 
-(2) Adipocytes have low specific gravity, which causes them to float in cell culture media. 
+(2) Adipocytes have low specific gravity, which causes them to float in cell culture media. On the top of that,
 
 <div style="text-align:center;">
   <img src="/assets/image48.png" width="300">
@@ -35,46 +35,12 @@ Our team resolved this issue using *Adipoq-Cre; mT/mG* system. Long story short,
   </p>
 </div>
 
-The thing is, if these cells 
 
-Ceiling culture chip reveals dynamic lipid droplet transport during adipocyte dedifferentiation via actin remodeling
-
-Live-cell imaging adipocytes
-Adipocytes float
-image - adipocytetube.png
-Adipocytes look weird (are they really cells?)
-
-
-Traditionally ceiling culture chip
-
-Waste of media --> even for the standard T25 flask, it takes 50 + mL to compleletly fill the flask.
-Do not fit within working distance of high magnification objectives
-
-Many alternative papers --> just add references
 
 Microfluidics? but they just flow away in 1-layered channel
 <div style="text-align:center;">
-  <img src="/assets/image61.gif">
+  <img src="/assets/image61.gif" width="400">
 </div>
 
 
-
-So I made "ceiling culture chip"
-Cells and flow trapped near the ceiling
-
-
-
-
-
-
-
-
-
-
-<div style="text-align:center;">
-  <video width="600" controls loop muted>
-    <source src="/assets/adipocyte-2.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
 
