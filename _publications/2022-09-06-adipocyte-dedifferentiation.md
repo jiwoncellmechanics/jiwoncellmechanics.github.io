@@ -6,17 +6,20 @@ tags: [Microfluidics, Ceiling Culture, Live-cell Imaging, Adipocyte, Adipocyte D
 teaser: /assets/image147.gif
 ---
 
-It was once believed that mature adipocytes (fat cells) are *terminally* differentiated.
-The term terminal implies that now the form and function of this cell is fixed forever and they cannot revered into status with greater developmental potentials (stemness).
- 
-However, recent studies revealed that adipocytes can be reversed into preadipocytes or mesenchymal stem cells under certain conditions.
+It was once believed that fat cells (adipocytes) are *terminally* differentiated.
+The term terminal implies that the form and function of the cells are fixed forever and they cannot revered into status with greater potentials (stemness).
 
 
 
 
-<div style="text-align:center;">
-  <img src="/assets/image61.gif">
-</div>
+However, recent studies revealed that adipocytes can be reversed into stem cells under certain conditions.
+
+Dedifferentiated adipocytes (DFATs) can be differentiated into bone cells, cartilage cells, muscle cells, and blood vessel cells: Someday, you can replace broken part of your body with your excessive fat!
+
+But nobody has witnessed the transition from fat cell to stem cell, because of two major challenges.
+(1) Adipocytes are lighter than 
+
+
 
 
 Ceiling culture chip reveals dynamic lipid droplet transport during adipocyte dedifferentiation via actin remodeling
@@ -35,25 +38,14 @@ Do not fit within working distance of high magnification objectives
 Many alternative papers --> just add references
 
 Microfluidics? but they just flow away in 1-layered channel
-image - floatingadipocytes.gif
+<div style="text-align:center;">
+  <img src="/assets/image61.gif">
+</div>
+
 
 
 So I made "ceiling culture chip"
 Cells and flow trapped near the ceiling
-
-
-
-그래서 live cell imaging 왜?
-Prof. Jae Myoung Suh, expert on adipocyte metabolism
-He was interested in the mechanisms of lipid droplet secretion (lipid droplet transportation) during adipocyte dedifferentiation
-Which was challenging with existing technologies
-So he wanted to collaborate with our lab - so that image that moment with non traditional way.. which is microfludics!
-
-
-to investigate
-
-
-
 
 
 
