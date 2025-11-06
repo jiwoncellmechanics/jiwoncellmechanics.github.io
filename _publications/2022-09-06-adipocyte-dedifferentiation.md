@@ -14,6 +14,8 @@ The term terminal implies that the form and function of the cells are fixed fore
   Courtesy: Department of Histology, Jagiellonian University Medical College
 </div>
 
+
+
 However, recent studies revealed that adipocytes can be reversed into stem cells under certain conditions.
 
 Dedifferentiated adipocytes (DFATs) can be differentiated into bone cells, cartilage cells, muscle cells, and blood vessel cells: Someday, you can replace broken part of your body with your excessive fat!
