@@ -11,7 +11,9 @@ The term terminal implies that the form and function of the cells are fixed fore
 
 <div style="text-align:center;">
   <img src="/assets/adipocyte_wiki.jpg">
-  Courtesy: Department of Histology, Jagiellonian University Medical College
+  <p style="font-size:0.85rem; color:#777; margin-top:0.5rem;">
+    Courtesy: Department of Histology, Jagiellonian University Medical College.
+  </p>
 </div>
 
 
