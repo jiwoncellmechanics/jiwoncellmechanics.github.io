@@ -26,16 +26,17 @@ Our team resolved this issue using *Adipoq-Cre; mT/mG* system. Long story short,
 
 (2) Adipocytes have low specific gravity, so they float on the cell culture medium. However if they stay floating, they soon die (tricky ones!). Sugihara came up with *ceiling culture* method, where the culture flask is completely filled with medium so that the adipocytes can attach and grow on the ceiling surface.
 
-<div style="display: flex; justify-content: center; gap: 1rem;">
-  <div style="text-align:center;">
-    <img src="/assets/image48.png" height="150">
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 1rem;">
+  <div style="text-align:center; flex:1;">
+    <img src="/assets/image48.png" width="250">
     <p style="font-size:0.8rem; color:#777;">Floating adipocytes (white layer) on the culture media.</p>
   </div>
-  <div style="text-align:center;">
-    <img src="/assets/image52.png" height="150">
-    <p style="font-size:0.8rem; color:#777;">Ceiling culture (Sugihara, H., <em>Differentiation</em> (1986)</p>
+  <div style="text-align:center; flex:1;">
+    <img src="/assets/image52.png" width="250">
+    <p style="font-size:0.8rem; color:#777;">Ceiling culture (Sugihara, H., <em>Differentiation</em> (1986))</p>
   </div>
 </div>
+
 
 The ceiling culture method is a clever solution. Unfortunately, standard culture flasks are too big to fit within the working distances of high-magnification objectives and are also rather wasteful.
 
@@ -57,7 +58,7 @@ With our chip (which we named *ceiling culuture chip*), we explored different EC
 </div>
 
 <div style="text-align:center;">
-  <img src="/assets/celltrap.png" width="200">
+  <img src="/assets/celltrap.png" width="300">
   <p style="font-size:0.8rem; color:#777;">Floating adipocytes remain stably trapped in position.</p>
 </div>
 
