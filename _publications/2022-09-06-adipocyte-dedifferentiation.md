@@ -28,26 +28,28 @@ Our team resolved this issue using *Adipoq-Cre; mT/mG* system. Long story short,
 
 <div style="display: flex; justify-content: center; gap: 1rem;">
   <div style="text-align:center;">
-    <img src="/assets/image48.png" height="180">
+    <img src="/assets/image48.png" height="150">
     <p style="font-size:0.8rem; color:#777;">Floating adipocytes (white layer) on the culture media.</p>
   </div>
   <div style="text-align:center;">
-    <img src="/assets/image52.png" height="180">
+    <img src="/assets/image52.png" height="150">
     <p style="font-size:0.8rem; color:#777;">Ceiling culture (Sugihara, H., *Differentiation* (1986)</p>
   </div>
 </div>
 
 The ceiling culture method is a clever solution. Unfortunately, standard culture flasks are too big to fit within the working distances of high-magnification objectives and are also rather wasteful.
 
-How about using microfluidic chips?
-In a simple 1-layered microfluidic channel, adipocytes were swept away, making it challenging to 
-
-
+**_How about using microfluidic chips?_**
+In a simple single-layered microfluidic channel, adipocytes were swept away, making it challenging to observe the dedifferentiation processes.
 
 <div style="text-align:center;">
   <img src="/assets/image61.gif" width="300">
   <p style="font-size:0.8rem; color:#777;">Yes, the floating globules are the adipocytes.</p>
 </div>
+
+Our simple innovation was to make the microfluidic chip **two-layered**. This staightforward design efficiently trapped floating adipocytes. Now we have an imaging-freindly (transparent and only 200 μm high), cost-effective (10 μl volume), and tunable (via ECM coating) platform.
+
+
 
 
 
