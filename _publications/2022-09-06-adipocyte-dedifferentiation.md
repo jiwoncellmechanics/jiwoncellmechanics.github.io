@@ -10,7 +10,7 @@ It was once believed that fat cells (adipocytes) were *terminally* differentiate
 The term *terminal* implies that the form and function of the cells are fixed forever and cannot be reversed into a state with greater potentials (stemness).
 
 <div style="text-align:center;">
-  <img src="/assets/adipocyte_wiki.jpg" width="600">
+  <img src="/assets/adipocyte_wiki.jpg" width="400">
   <p style="font-size:0.85rem; color:#777; margin-top:0.5rem;">
    Fat cells look like bubbles, filled with fat.
    Image courtesy: Department of Histology, Jagiellonian University Medical College.
@@ -39,9 +39,11 @@ Our team resolved this issue using *Adipoq-Cre; mT/mG* system. Long story short,
 
 The ceiling culture method is a clever solution. Unfortunately, standard culture flasks are too big to fit within the working distances of high-magnification objectives and are also rather wasteful.
 
+
+
 Microfluidics? but they just flow away in 1-layered channel
 <div style="text-align:center;">
-  <img src="/assets/image61.gif" width="400">
+  <img src="/assets/image61.gif" width="300">
 </div>
 
 
