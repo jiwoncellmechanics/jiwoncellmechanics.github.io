@@ -33,7 +33,7 @@ Our team resolved this issue using *Adipoq-Cre; mT/mG* system. Long story short,
   </div>
   <div style="text-align:center;">
     <img src="/assets/image52.png" height="150">
-    <p style="font-size:0.8rem; color:#777;">Ceiling culture (Sugihara, H., *Differentiation* (1986)</p>
+    <p style="font-size:0.8rem; color:#777;">Ceiling culture (Sugihara, H., <em>Differentiation</em> (1986)</p>
   </div>
 </div>
 
@@ -49,7 +49,17 @@ In a simple single-layered microfluidic channel, adipocytes were swept away, mak
 
 Our simple innovation was to make the microfluidic chip **two-layered**. This staightforward design efficiently trapped floating adipocytes. Now we have an imaging-freindly (transparent and only 200 μm high), cost-effective (10 μl volume), and tunable (via ECM coating) platform.
 
-With our chip (which we named *ceiling culuture chip*), we explored different ECM conditions, and molecular interventions. Interestingly, we found that conditions promoting adipocyte differentiation inhibit adipocyte **de**differentiation, and *vice versa.*
+With our chip (which we named *ceiling culuture chip*), we explored different ECM conditions, and molecular interventions. Interestingly, we found that conditions promoting adipocyte differentiation inhibit adipocyte **de**differentiation, and *vice versa.* Check out our paper below for more scientific details.
+
+<div style="text-align:center;">
+  <img src="/assets/fabrication.png" width="400">
+  <p style="font-size:0.8rem; color:#777;">Fabrication of <em>Ceiling Culture Chip</em></p>
+</div>
+
+<div style="text-align:center;">
+  <img src="/assets/celltrap.png" width="200">
+  <p style="font-size:0.8rem; color:#777;">Floating adipocytes remain stably trapped in position.</p>
+</div>
 
 
 
