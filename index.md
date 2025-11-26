@@ -4,6 +4,14 @@ title: "Education"
 author_profile: true
 ---
 
+Hi, I'm Jiwon.
+I'm a mechanical engineer who experimentally investigates how forces shape living cells and tissues. A central theme of my work is how epithelial tissues or tumors are sculpted by collective cell migration in the context of a compliant extracellular matrix.
+I aim to become a tenure-track faculty in mechanical engineering/biomedical engineering with a focus on the mechanobiology of cancer and women’s health.
+Outside the lab, I love knitting, reading, and enjoying good seafood.
+If you're interested in connecting or collaborating, please feel free to reach out. I'd love to hear from you! 🙌🏻
+
+
+
 <style>
 .cv-grid {
   display: grid;
