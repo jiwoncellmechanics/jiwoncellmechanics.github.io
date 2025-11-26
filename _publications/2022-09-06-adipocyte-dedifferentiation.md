@@ -52,15 +52,16 @@ Our innovation was to make the microfluidic chip **two-layered**. This staightfo
 
 With our chip (which we named *ceiling culuture chip*), we explored different ECM conditions, and molecular interventions. Interestingly, we found that conditions promoting adipocyte differentiation inhibit adipocyte **de**differentiation, and *vice versa.*
 
-<div style="text-align:center;">
-  <img src="/assets/fabrication2.png" width="600">
-  <p style="font-size:0.8rem; color:#777;">Fabrication of <em>Ceiling Culture Chip</em></p>
-</div>
 
-<div style="text-align:center;">
-  <img src="/assets/celltrap.png" width="300">
-  <p style="font-size:0.8rem; color:#777;">Floating adipocytes remain stably trapped in position.</p>
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 1rem;">
+  <div style="text-align:center; flex:1;">
+    <img src="/assets/fabrication.png" width="600">
+    <p style="font-size:0.8rem; color:#777;">Ceiling Culture Chip</p>
+  </div>
+  <div style="text-align:center; flex:1;">
+    <img src="/assets/celltrap.png" width="300">
+    <p style="font-size:0.8rem; color:#777;">Floating adipocytes remain stably trapped in position.</p>
+  </div>
 </div>
-
 
 
