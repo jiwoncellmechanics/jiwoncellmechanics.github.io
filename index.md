@@ -9,12 +9,9 @@ I aim to become a tenure-track faculty in mechanical engineering/biomedical engi
 Outside the lab, I love knitting, reading, and enjoying good seafood.
 If you're interested in connecting or collaborating, please feel free to reach out. I'd love to hear from you! 🙌🏻
 
-
-<br>
-<br>
-<br>
-
-**Education**
+<hr>
+<p><strong>Education</strong> 
+  
 <style>
 .cv-grid {
   display: grid;
