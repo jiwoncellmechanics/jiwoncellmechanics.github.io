@@ -10,7 +10,6 @@ Outside the lab, I love knitting, reading, and enjoying good seafood.
 If you're interested in connecting or collaborating, please feel free to reach out. I'd love to hear from you! 🙌🏻
 
 <hr>
-<p><strong>Education</strong> 
   
 <style>
 .cv-grid {
@@ -29,6 +28,14 @@ If you're interested in connecting or collaborating, please feel free to reach o
 </style>
 
 <div class="cv-grid">
+ 
+  <div class="cv-item">
+    <div class="cv-left">
+      <h3>Education</h3>
+      </div>
+    </div>
+  </div>
+
 
   <div class="cv-item">
     <div class="cv-left">
