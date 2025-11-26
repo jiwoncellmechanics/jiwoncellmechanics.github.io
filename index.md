@@ -10,7 +10,11 @@ Outside the lab, I love knitting, reading, and enjoying good seafood.
 If you're interested in connecting or collaborating, please feel free to reach out. I'd love to hear from you! 🙌🏻
 
 
+<br>
+<br>
+<br>
 
+**Education**
 <style>
 .cv-grid {
   display: grid;
@@ -51,7 +55,7 @@ If you're interested in connecting or collaborating, please feel free to reach o
       <div class="inst">Korea Advanced Institute of Science and Technology (KAIST)</div>
       <div class="sub">
         Dissertation:
-        <a href="https://library.kaist.ac.kr/search/ctlgSearch/posesn/view.do?bibctrlno=1030346&se=t0&ty=B&_csrf=77b66785-09ab-475c-8419-089c4937f322" target="_blank">
+        <a href="https://library.kaist.ac.kr/search/ctlgSearch/posesn/view.do?bibctrlno=1030346&se=t0&ty=B&_csrf=3b5b4507-a6e8-4f3f-82d1-6cad1d941692" target="_blank">
           Dynamic Behaviors of <em>In Vitro</em> Pathophysiological Models
         </a>
       </div>
@@ -73,7 +77,7 @@ If you're interested in connecting or collaborating, please feel free to reach o
       <div class="inst">Korea Advanced Institute of Science and Technology (KAIST)</div>
       <div class="sub">
         Thesis:
-        <a href="https://library.kaist.ac.kr/search/ctlgSearch/posesn/view.do?bibctrlno=733714&se=t0&ty=B&_csrf=77b66785-09ab-475c-8419-089c4937f322" target="_blank">
+        <a href="https://library.kaist.ac.kr/search/ctlgSearch/posesn/view.do?bibctrlno=733714&se=t0&ty=B&_csrf=3b5b4507-a6e8-4f3f-82d1-6cad1d941692" target="_blank">
           Correlations between Spheroidal Phenotype and Functionality as Cancer Model
         </a>
       </div>
