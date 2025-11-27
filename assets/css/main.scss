@@ -16,10 +16,10 @@ a:hover { color: #444 !important; }
 .pub-item {
   display: flex !important;
   flex-direction: row-reverse !important;
-  align-items: flex-start !important;
+  align-items: center !important;
   gap: 20px;
   border-bottom: 1px solid #ddd;
-  padding: 100px 0;
+  padding: 20px 0;
 }
 
 .pub-image img {
