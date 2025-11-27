@@ -1,16 +1,53 @@
----
-# Only front matter; ensures Jekyll builds this file
----
+/* ========== Publications 페이지: 가로형 리스트 레이아웃 만들기 ========== */
 
-@import "minimal-mistakes"; // 테마 불러오기
-
-/* 여기에 너의 커스텀 CSS/SCSS 추가 */
+/* 각 item을 flex로 좌우 배치 */
 .archive__item {
-  flex: 1 1 600px !important;
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: flex-start;
+  gap: 20px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid #e0e0e0;
 }
 
-@media (max-width: 900px) {
-  .archive {
-    display: block !important;
+/* 이미지 크기 조정 */
+.archive__item .archive__item-teaser {
+  flex: 0 0 220px; /* 왼쪽 이미지 고정폭 */
+  margin-bottom: 0 !important;
+}
+
+.archive__item .archive__item-teaser img {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+}
+
+/* 텍스트 영역을 유연하게 오른쪽으로 */
+.archive__item .archive__item-body {
+  flex: 1;
+}
+
+/* 제목은 위에 크게 */
+.archive__item .archive__item-title {
+  font-size: 1.3rem;
+  margin-bottom: 10px;
+}
+
+/* excerpt(미리보기)는 여기서 스타일 조정 가능 */
+.archive__item .archive__item-excerpt {
+  font-size: 1rem;
+  color: #444;
+}
+
+
+/* ========== 반응형: 모바일에서는 다시 세로 배치 ========== */
+@media (max-width: 700px) {
+  .archive__item {
+    flex-direction: column !important;
+  }
+
+  .archive__item .archive__item-teaser {
+    width: 100% !important;
+    flex: none !important;
   }
 }
