@@ -12,7 +12,7 @@
 
 .pub-item {
   display: flex !important;
-  flex-direction: row !important;
+  flex-direction: row-reverse !important;
   align-items: flex-start;
   gap: 20px;
   border-bottom: 1px solid #ddd;
