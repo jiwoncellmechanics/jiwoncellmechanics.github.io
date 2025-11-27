@@ -4,6 +4,7 @@ title: "Publications"
 collection: publications
 permalink: /publications/
 classes: wide
+entries_layout: none
 ---
 
 {% assign pubs = site.publications | sort: "date" | reverse %}
