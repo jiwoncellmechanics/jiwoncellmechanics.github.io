@@ -12,4 +12,7 @@ header:
 ---
 
 
+
+
+
 Collective Mechanical Memory Encoded by Long-Lasting Supracellular Cytoskeletal Structures in Muticellular Spheroids
