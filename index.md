@@ -134,4 +134,4 @@ If you're interested in connecting or collaborating, please feel free to reach o
 
 <p><strong>Skills: </strong> 3D cell culture, Biocompatible hydrogel fabrication (2D, 3D), Invasion assay (embedding cell spheroids within hydrogel), Spreading assay (plating cell spheroids on hydrogel), 4D Live-cell imaging, Image processing, Optical flow, Traction force microscopy, Atomic force microscopy, Design and fabrication of microfluidics, qPCR, Immunofluorescence.</p>
 
-test
+
