@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: collection
 title: "Publications"
 collection: publications
 entries_layout: grid
