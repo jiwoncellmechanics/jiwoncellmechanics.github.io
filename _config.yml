@@ -330,7 +330,7 @@ defaults:
 # Add custom collection for publications
 collections:
   publications:
-    output: true
+    output: false
     permalink: /publications/:title/
     sort_by: "date"
     order: "descending"    
