@@ -5,23 +5,28 @@
 @import "minimal-mistakes";  // 테마 불러오기
 
 .pub-list {
-  list-style: none;
-  padding: 0;
-  margin: 0;
+  list-style: none !important;
+  padding-left: 0 !important;
+  margin-left: 0 !important;
 }
 
 .pub-item {
-  display: flex;
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: flex-start;
   gap: 20px;
   border-bottom: 1px solid #ddd;
   padding: 20px 0;
 }
 
 .pub-image img {
-  width: 220px;
-  height: auto;
-  border-radius: 8px;
+  width: 200px !important;  /* 🔥 너 원하는 크기로 변경 */
+  height: auto !important;
+  max-width: 200px !important;
+  display: block !important;  /* width:100% 되는 문제 방지 */
+  object-fit: cover;
 }
+
 
 .pub-text {
   flex: 1;
