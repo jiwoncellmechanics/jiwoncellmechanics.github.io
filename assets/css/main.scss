@@ -4,6 +4,9 @@
 
 @import "minimal-mistakes";  // 테마 불러오기
 
+a { color: #111 !important; }
+a:hover { color: #444 !important; }
+
 .pub-list {
   list-style: none !important;
   padding-left: 0 !important;
