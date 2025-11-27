@@ -112,5 +112,5 @@ If you're interested in connecting or collaborating, please feel free to reach o
 </div>
 
 <hr>
-<p><strong>Research Keywords:</strong> Mechanical Engineering, Biomedical Engineering, Cell mechanics, Mechanobiology, 3D Multicellular spheroid, Biomaterial, Collective cell migration, Live-cell imaging, Image processing, Microfluidics</p>
+<p><strong>Skills: </strong> 3D cell culture, Biocompatible hydrogel fabrication (2D, 3D), Invasion assay (embedding cell spheroids within hydrogel), Spreading assay (plating cell spheroids on hydrogel), 4D Live-cell imaging, Image processing, Optical flow, Traction force microscopy, Atomic force microscopy, Design and fabrication of microfluidics, qPCR, Immunofluorescence.</p>
 
