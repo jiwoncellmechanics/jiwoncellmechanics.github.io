@@ -333,20 +333,20 @@ collections:
     output: true
     permalink: /publications/:title/
     sort_by: date
-    order: descending    
+    order: ascending    
   invitedtalks:
     output: true
     permalink: /invitedtalks/:title/
     sort_by: date
-    order: descending
+    order: ascending
   news:
     output: true
     permalink: /news/:title/
     sort_by: date
-    order: descending
+    order: ascending
   miscellaneous:
     output: true
     permalink: /miscellaneous/:title/
     sort_by: date
-    order: descending
+    order: ascending
 
