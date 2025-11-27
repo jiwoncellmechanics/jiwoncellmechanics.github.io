@@ -1,0 +1,16 @@
+---
+# Only front matter; ensures Jekyll builds this file
+---
+
+@import "minimal-mistakes"; // 테마 불러오기
+
+/* 여기에 너의 커스텀 CSS/SCSS 추가 */
+.archive__item {
+  flex: 1 1 300px !important;
+}
+
+@media (max-width: 900px) {
+  .archive {
+    display: block !important;
+  }
+}
