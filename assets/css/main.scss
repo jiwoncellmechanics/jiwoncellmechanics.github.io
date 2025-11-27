@@ -15,10 +15,13 @@
   padding-bottom: 30px;
   border-bottom: 1px solid #e0e0e0;
 
-  /* 기본 grid 레이아웃 완전 제거 */
+  /* 🔥 기존 grid 완전히 제거 */
   float: none !important;
   width: 100% !important;
   max-width: 100% !important;
+  position: relative !important;
+  clear: both !important;
+  margin: 0 !important;
 }
 
 
