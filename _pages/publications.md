@@ -5,6 +5,7 @@ collection: publications
 permalink: /publications/
 classes: wide
 entries_layout: none
+list: false
 ---
 
 {% assign pubs = site.publications | sort: "date" | reverse %}
