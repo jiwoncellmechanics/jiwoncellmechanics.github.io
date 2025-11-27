@@ -1,12 +1,10 @@
 ---
-layout: collection
+layout: single
 title: "Publications"
-collection: publications
 permalink: /publications/
 classes: wide
-entries_layout: none
-list: false
 ---
+
 
 {% assign pubs = site.publications | sort: "date" | reverse %}
 
