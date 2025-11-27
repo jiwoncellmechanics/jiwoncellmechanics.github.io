@@ -8,8 +8,11 @@ show_teasers: true
 permalink: /publications/
 classes: wide
 ---
+
+{% assign pubs = site.publications | sort: "date" | reverse %}
+
 <ul class="pub-list">
-  {% for post in site.publications %}
+  {% for post in pubs %}
   <li class="pub-item">
     <div class="pub-image">
       {% if post.header.teaser %}
