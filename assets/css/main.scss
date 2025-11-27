@@ -4,8 +4,25 @@
 
 @import "minimal-mistakes";  // 테마 불러오기
 
-a { color: #111 !important; }
-a:hover { color: #444 !important; }
+/* === GLOBAL LINK REWRITE (Neutral links like normal text) === */
+
+/* 기본 링크 색깔을 일반 텍스트 색이랑 동일하게 */
+a {
+  color: inherit !important;      /* 부모의 글자색 그대로 */
+  text-decoration: none !important; /* 밑줄 제거 */
+}
+
+/* hover 스타일 (원하면 바꿔도 됨) */
+a:hover {
+  color: inherit !important;       /* hover에도 색 변하지 않음 */
+  text-decoration: none !important; /* hover underline 제거 */
+}
+
+/* 방문한 링크 색깔 유지 */
+a:visited {
+  color: inherit !important;
+}
+
 
 .pub-list {
   list-style: none !important;
