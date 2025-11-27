@@ -10,7 +10,7 @@ Outside the lab, I love knitting, reading, and enjoying good seafood.
 If you're interested in connecting or collaborating, please feel free to reach out. I'd love to hear from you! 🙌🏻
 
 <hr>
-  
+
 <style>
 .cv-grid {
   display: grid;
@@ -23,30 +23,51 @@ If you're interested in connecting or collaborating, please feel free to reach o
 .cv-right { text-align: right; white-space: nowrap; }
 .cv-item { display: contents; }
 .cv-left h3 { margin: 0; font-weight: 800; }
-.cv-left .inst { font-weight: 700; }
-.cv-left .sub { font-style: normal; }
+
+.cv-link {
+  font-size: 0.8rem;
+  margin-left: 0.4rem;
+  text-decoration: none;
+  color: #777;
+}
+.cv-link:hover {
+  color: #333;
+}
+
+/* Optional: remove underline from internal text links if desired */
+.cv-left a {
+  text-decoration: none;
+}
+.cv-left a:hover {
+  text-decoration: underline;
+}
 </style>
 
+
 <div class="cv-grid">
- 
+
   <div class="cv-item">
     <div class="cv-left">
       <h3>Education</h3>
     </div>
   </div>
+
 </div>
 
+
 <div class="cv-grid">
+
+  <!-- POSTDOC -->
   <div class="cv-item">
     <div class="cv-left">
-      <h3><a href="https://engineering.brown.edu/research/hibbitt-fellows" target="_blank">
-        Hibbitt Postdoctoral Fellow in Engineering</h3>
+      <h3>
+        Hibbitt Postdoctoral Fellow in Engineering
+        <a href="https://engineering.brown.edu/research/hibbitt-fellows" target="_blank" class="cv-link">↗</a>
+      </h3>
       <div class="inst">Brown University</div>
       <div class="sub">
         Advisor:
-        <a href="https://sites.brown.edu/wonglab/" target="_blank">
-          Prof. Ian Y. Wong
-        </a>
+        <a href="https://sites.brown.edu/wonglab/" target="_blank">Prof. Ian Y. Wong</a>
       </div>
     </div>
     <div class="cv-right">
@@ -54,21 +75,22 @@ If you're interested in connecting or collaborating, please feel free to reach o
     </div>
   </div>
 
+  <!-- PhD -->
   <div class="cv-item">
     <div class="cv-left">
-      <h3>Ph.D. in Mechanical Engineering</h3>
+      <h3>
+        Ph.D. in Mechanical Engineering
+      </h3>
       <div class="inst">Korea Advanced Institute of Science and Technology (KAIST)</div>
       <div class="sub">
         Dissertation:
-        <a href="https://library.kaist.ac.kr/search/ctlgSearch/posesn/view.do?bibctrlno=1030346&se=t0&ty=B&_csrf=3b5b4507-a6e8-4f3f-82d1-6cad1d941692" target="_blank">
-          Dynamic Behaviors of <em>In Vitro</em> Pathophysiological Models
+        <a href="https://library.kaist.ac.kr/search/ctlgSearch/posesn/view.do?bibctrlno=1030346" target="_blank">
+          Dynamic Behaviors of <em>In Vitro</em> Pathophysiological Models ↗
         </a>
       </div>
       <div class="sub">
         Advisor:
-        <a href="https://softbm.kaist.ac.kr" target="_blank">
-          Prof. Jennifer H. Shin
-        </a>
+        <a href="https://softbm.kaist.ac.kr" target="_blank">Prof. Jennifer H. Shin</a>
       </div>
     </div>
     <div class="cv-right">
@@ -76,21 +98,20 @@ If you're interested in connecting or collaborating, please feel free to reach o
     </div>
   </div>
 
+  <!-- MS -->
   <div class="cv-item">
     <div class="cv-left">
       <h3>M.S. in Mechanical Engineering</h3>
       <div class="inst">Korea Advanced Institute of Science and Technology (KAIST)</div>
       <div class="sub">
         Thesis:
-        <a href="https://library.kaist.ac.kr/search/ctlgSearch/posesn/view.do?bibctrlno=733714&se=t0&ty=B&_csrf=3b5b4507-a6e8-4f3f-82d1-6cad1d941692" target="_blank">
-          Correlations between Spheroidal Phenotype and Functionality as Cancer Model
+        <a href="https://library.kaist.ac.kr/search/ctlgSearch/posesn/view.do?bibctrlno=733714" target="_blank">
+          Correlations between Spheroidal Phenotype and Functionality as Cancer Model ↗
         </a>
       </div>
       <div class="sub">
         Advisor:
-        <a href="https://softbm.kaist.ac.kr" target="_blank">
-          Prof. Jennifer H. Shin
-        </a>
+        <a href="https://softbm.kaist.ac.kr" target="_blank">Prof. Jennifer H. Shin</a>
       </div>
     </div>
     <div class="cv-right">
@@ -98,6 +119,7 @@ If you're interested in connecting or collaborating, please feel free to reach o
     </div>
   </div>
 
+  <!-- BS -->
   <div class="cv-item">
     <div class="cv-left">
       <h3>B.S. in Mechanical Engineering</h3>
@@ -113,5 +135,5 @@ If you're interested in connecting or collaborating, please feel free to reach o
 </div>
 
 <hr>
-<p><strong>Skills: </strong> 3D cell culture, Biocompatible hydrogel fabrication (2D, 3D), Invasion assay (embedding cell spheroids within hydrogel), Spreading assay (plating cell spheroids on hydrogel), 4D Live-cell imaging, Image processing, Optical flow, Traction force microscopy, Atomic force microscopy, Design and fabrication of microfluidics, qPCR, Immunofluorescence.</p>
 
+<p><strong>Skills: </strong> 3D cell culture, Biocompatible hydrogel fabrication (2D, 3D), Invasion assay (embedding cell spheroids within hydrogel), Spreading assay (plating cell spheroids on hydrogel), 4D Live-cell imaging, Image processing, Optical flow, Traction force microscopy, Atomic force microscopy, Design and fabrication of microfluidics, qPCR, Immunofluorescence.</p>
