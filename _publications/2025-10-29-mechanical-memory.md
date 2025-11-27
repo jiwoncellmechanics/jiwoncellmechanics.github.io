@@ -1,5 +1,9 @@
 ---
-layout: collection
+layout: single
+author_profile: false
+read_time: false
+share: false
+comments: false
 title: "Ovarian Cancer Remembers How Stiff Their Hometown Was"
 date: 2025-10-29
 tags: [Mechanical Memory, Substrate Stiffness, Collective Migration, Cytoskeletal Network, Gap Junction]
