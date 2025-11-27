@@ -1,0 +1,28 @@
+---
+# Only front matter; ensures Jekyll builds this file
+---
+
+@import "minimal-mistakes";  // 테마 불러오기
+
+.pub-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.pub-item {
+  display: flex;
+  gap: 20px;
+  border-bottom: 1px solid #ddd;
+  padding: 20px 0;
+}
+
+.pub-image img {
+  width: 220px;
+  height: auto;
+  border-radius: 8px;
+}
+
+.pub-text {
+  flex: 1;
+}
