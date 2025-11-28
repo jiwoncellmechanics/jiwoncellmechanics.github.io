@@ -41,6 +41,20 @@ If you're interested in connecting or collaborating, please feel free to reach o
 .cv-left a:hover {
   text-decoration: underline;
 }
+
+  /* --- MOBILE VIEW (700px 이하에서 1-column) --- */
+@media (max-width: 700px) {
+  .cv-grid {
+    grid-template-columns: 1fr !important; /* 한 칼럼 */
+  }
+
+  .cv-right {
+    text-align: left !important;  /* 오른쪽 정렬 깨뜨리지 않게 */
+    white-space: normal !important; 
+    margin-top: 0.2rem;
+  }
+}
+
 </style>
 
 
