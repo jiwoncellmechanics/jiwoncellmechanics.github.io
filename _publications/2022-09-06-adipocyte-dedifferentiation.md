@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: false
-read_time: false
+read_time: true
 share: false
 comments: false
 title: "Close-up: When a Fat Cell Spits Out Its Fat Pocket and Becomes a Stem Cell"
