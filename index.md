@@ -41,6 +41,10 @@ If you're interested in connecting or collaborating, please feel free to reach o
 .cv-left a:hover {
   text-decoration: underline;
 }
+.cv-left h3 a.no-bold {
+  font-weight: normal !important;
+}
+
 
   /* --- MOBILE VIEW (700px 이하에서 1-column) --- */
 @media (max-width: 700px) {
@@ -76,7 +80,7 @@ If you're interested in connecting or collaborating, please feel free to reach o
     <div class="cv-left">
       <h3>
         Hibbitt Postdoctoral Fellow in Engineering
-        <a href="https://engineering.brown.edu/research/hibbitt-fellows" target="_blank">🔗 (yes, that's me!)</a>
+        <a href="https://engineering.brown.edu/research/hibbitt-fellows" target="_blank" class="no-bold">🔗 (yes, that's me!)</a>
       </h3>
       <div class="inst">Brown University</div>
       <div class="sub">
