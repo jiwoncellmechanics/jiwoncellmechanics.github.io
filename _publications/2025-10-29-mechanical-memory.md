@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: false
-read_time: false
+read_time: true
 share: false
 comments: false
 title: "Ovarian Cancer Remembers How Stiff Their Hometown Was"
