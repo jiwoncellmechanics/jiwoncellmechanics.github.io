@@ -85,7 +85,9 @@ If you're interested in connecting or collaborating, please feel free to reach o
       </div>
     </div>
     <div class="cv-right">
-      Jun. 2023 – present <br> Providence, RI, USA
+      <span class="no-detect">Jun. 2023 – present</span>
+      <br><span class="no-detect">Providence, RI, USA</span>
+
     </div>
   </div>
 
