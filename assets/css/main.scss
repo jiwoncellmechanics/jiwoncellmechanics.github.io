@@ -38,24 +38,36 @@ a:visited {
   border-bottom: 1px solid #ddd;
   padding: 20px 0;
 }
+
 @media (max-width: 700px) {
+
   .pub-item {
-    flex-direction: column !important;
-    align-items: center !important;
-    text-align: left !important;
+    display: flex !important;
+    flex-direction: column !important; 
+    align-items: flex-start !important;
+  }
+
+  /* 🔥 모바일에서 요소 순서 뒤집기 (텍스트 → 이미지) */
+  .pub-text {
+    order: 1 !important;
+    width: 100%;
   }
 
   .pub-image {
-    width: 100% !important;       /* 모바일에서 전체폭 */
+    order: 2 !important;
+    width: 100% !important;
+    margin-top: 10px;
   }
 
+  /* 🔥 이미지 가로 꽉 차기 */
   .pub-image img {
-    width: 100% !important;       /* 이미지도 전체폭 */
+    width: 100% !important;
     height: auto !important;
-    object-fit: cover !important; /* 깔끔한 크롭 */
-    margin-bottom: 10px;
+    object-fit: cover !important;
+    display: block !important;
   }
 }
+
 
 .pub-image img {
   width: 200px !important;  /* 🔥 너 원하는 크기로 변경 */
