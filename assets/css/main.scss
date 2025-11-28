@@ -43,11 +43,10 @@ a:visited {
 
   .pub-item {
     display: flex !important;
-    flex-direction: column !important; 
+    flex-direction: column !important;
     align-items: flex-start !important;
   }
 
-  /* 🔥 모바일에서 요소 순서 뒤집기 (텍스트 → 이미지) */
   .pub-text {
     order: 1 !important;
     width: 100%;
@@ -59,14 +58,16 @@ a:visited {
     margin-top: 10px;
   }
 
-  /* 🔥 이미지 가로 꽉 차기 */
+  /* 🔥 모바일에서 가로 꽉 차는 이미지 */
   .pub-image img {
     width: 100% !important;
+    max-width: none !important;    /* ★ 핵심 */
     height: auto !important;
     object-fit: cover !important;
     display: block !important;
   }
 }
+
 
 
 .pub-image img {
