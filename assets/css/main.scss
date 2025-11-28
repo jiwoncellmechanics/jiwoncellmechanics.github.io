@@ -38,6 +38,20 @@ a:visited {
   border-bottom: 1px solid #ddd;
   padding: 20px 0;
 }
+@media (max-width: 700px) {
+  .pub-item {
+    flex-direction: column !important;  /* 모바일에서 아래→위 순서로 */
+    align-items: flex-start !important;
+    text-align: left !important;
+  }
+
+  .pub-image img {
+    width: 100% !important;
+    height: auto !important;
+    object-fit: contain !important;
+    margin-bottom: 10px;
+  }
+}
 
 .pub-image img {
   width: 200px !important;  /* 🔥 너 원하는 크기로 변경 */
@@ -51,3 +65,6 @@ a:visited {
 .pub-text {
   flex: 1;
 }
+
+
+
