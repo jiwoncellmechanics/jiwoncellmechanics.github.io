@@ -40,15 +40,19 @@ a:visited {
 }
 @media (max-width: 700px) {
   .pub-item {
-    flex-direction: column !important;  /* 모바일에서 아래→위 순서로 */
-    align-items: flex-start !important;
+    flex-direction: column !important;
+    align-items: center !important;
     text-align: left !important;
   }
 
+  .pub-image {
+    width: 100% !important;       /* 모바일에서 전체폭 */
+  }
+
   .pub-image img {
-    width: 100% !important;
+    width: 100% !important;       /* 이미지도 전체폭 */
     height: auto !important;
-    object-fit: contain !important;
+    object-fit: cover !important; /* 깔끔한 크롭 */
     margin-bottom: 10px;
   }
 }
