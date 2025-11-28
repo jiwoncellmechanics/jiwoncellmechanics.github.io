@@ -4,52 +4,68 @@
 
 @import "minimal-mistakes";  // 테마 불러오기
 
-/* === GLOBAL LINK REWRITE (Neutral links like normal text) === */
 
-/* 기본 링크 색깔을 일반 텍스트 색이랑 동일하게 */
+/* ============================================================
+   GLOBAL LINK RESET — 링크를 기본 글씨처럼 보이게
+   ============================================================ */
 a {
-  color: inherit !important;      /* 부모의 글자색 그대로 */
-  text-decoration: none !important; /* 밑줄 제거 */
+  color: inherit !important;
+  text-decoration: none !important;
 }
 
-/* hover 스타일 (원하면 바꿔도 됨) */
-a:hover {
-  color: inherit !important;       /* hover에도 색 변하지 않음 */
-  text-decoration: none !important; /* hover underline 제거 */
-}
-
-/* 방문한 링크 색깔 유지 */
+a:hover,
 a:visited {
   color: inherit !important;
+  text-decoration: none !important;
 }
 
 
+/* ============================================================
+   PUBLICATION LIST LAYOUT (PC 기본)
+   ============================================================ */
 .pub-list {
   list-style: none !important;
-  padding-left: 0 !important;
-  margin-left: 0 !important;
+  padding: 0 !important;
+  margin: 0 !important;
 }
 
 .pub-item {
   display: flex !important;
-  flex-direction: row-reverse !important;
+  flex-direction: row-reverse !important; /* 이미지 오른쪽 */
   align-items: center !important;
   gap: 20px;
   border-bottom: 1px solid #ddd;
   padding: 20px 0;
 }
 
+.pub-text {
+  flex: 1;
+}
+
+/* PC용 이미지 */
+.pub-image img {
+  width: 200px !important;
+  height: auto !important;
+  display: block !important;
+  object-fit: cover;
+}
+
+
+/* ============================================================
+   MOBILE LAYOUT (700px 이하)
+   ============================================================ */
 @media (max-width: 700px) {
 
   .pub-item {
     display: flex !important;
-    flex-direction: column !important;
+    flex-direction: column !important; /* 세로 정렬 */
     align-items: flex-start !important;
   }
 
+  /* 🔥 텍스트 먼저 → 이미지 나중 */
   .pub-text {
     order: 1 !important;
-    width: 100%;
+    width: 100% !important;
   }
 
   .pub-image {
@@ -58,30 +74,12 @@ a:visited {
     margin-top: 10px;
   }
 
-  /* 🔥 모바일에서 가로 꽉 차는 이미지 */
+  /* 🔥 이미지가 모바일에서 가로 전체로 꽉 차도록 */
   .pub-image img {
     width: 100% !important;
-    max-width: none !important;    /* ★ 핵심 */
+    max-width: 100% !important;   /* ★★ 핵심: 200px 제한 제거 */
     height: auto !important;
     object-fit: cover !important;
     display: block !important;
   }
 }
-
-
-
-.pub-image img {
-  width: 200px !important;  /* 🔥 너 원하는 크기로 변경 */
-  height: auto !important;
-  max-width: 200px !important;
-  display: block !important;  /* width:100% 되는 문제 방지 */
-  object-fit: cover;
-}
-
-
-.pub-text {
-  flex: 1;
-}
-
-
-
