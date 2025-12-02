@@ -15,7 +15,7 @@ If you're interested in connecting or collaborating, please feel free to reach o
 .cv-grid {
   display: grid;
   grid-template-columns: 1fr auto;
-  gap: .4rem 1.6rem;
+  gap: .4rem 1.25rem;
   margin: 1rem 0;
 }
 .cv-left { line-height: 1.35; }
@@ -60,7 +60,7 @@ If you're interested in connecting or collaborating, please feel free to reach o
 
 </style>
 
-<div style="font-size:0.75rem; line-height:1.45;">
+<div style="font-size:0.8rem; line-height:1.45;">
 
 <div class="cv-grid">
 
