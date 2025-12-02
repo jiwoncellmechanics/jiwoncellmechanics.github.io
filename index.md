@@ -168,7 +168,6 @@ If you're interested in connecting or collaborating, please feel free to reach o
     <div class="cv-left">
       <h3>
         Biomedical Engineering Design and Innovation
-        <a href="https://engineering.brown.edu/research/hibbitt-fellows" target="_blank" class="no-bold">🔗(yes, that's me!)</a>
       </h3>
       <div class="inst">Brown University ENGN0930L/1930L</div>
       <div class="sub">
@@ -179,7 +178,7 @@ If you're interested in connecting or collaborating, please feel free to reach o
       Sep. 2024 – Dec. 2024 <br>
     </div>
   </div>
-
+</div>
  
 <hr>
 
