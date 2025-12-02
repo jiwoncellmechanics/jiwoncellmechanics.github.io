@@ -80,7 +80,7 @@ If you're interested in connecting or collaborating, please feel free to reach o
     <div class="cv-left">
       <h3>
         Hibbitt Postdoctoral Fellow in Engineering
-        <a href="https://engineering.brown.edu/research/hibbitt-fellows" target="_blank" class="no-bold">🔗(yes, that's me!)</a>
+        <a href="https://engineering.brown.edu/research/hibbitt-fellows" target="_blank" class="no-bold">🔗</a>
       </h3>
       <div class="inst">Brown University</div>
       <div class="sub">
@@ -167,20 +167,32 @@ If you're interested in connecting or collaborating, please feel free to reach o
   <div class="cv-item">
     <div class="cv-left">
       <h3>
-        Biomedical Engineering Design and Innovation
+        Biomedical Engineering Design and Innovation I
       </h3>
-      <div class="inst">Brown University ENGN0930L/1930L</div>
+      <div class="inst">Brown University <br> ENGN0930L/1930L</div>
       <div class="sub">
         Co-instructor: Prof. Anubhav Tripathi
       </div>
     </div>
     <div class="cv-right">
-      Sep. 2024 – Dec. 2024 <br>
+      Sep. 2024 – Dec. 2024 <br> Providence, RI, USA
     </div>
   </div>
 </div>
  
 <hr>
+
+<hr>
+
+<h3>Awards & Honors</h3>
+
+<ul>
+  <li>Rising Stars in Mechanical Engineering, MIT (2025)</li>
+  <li>Hibbitt Postdoctoral Fellowship, Brown University (2023–2025)</li>
+  <li>Outstanding Teaching Assistant Award, Fluid Mechanics, KAIST (Fall 2021)</li>
+  <li>Outstanding Teaching Assistant Award, Fluid Mechanics, KAIST (Fall 2020)</li>
+  <li>Outstanding Teaching Assistant Award, Capstone Design I, KAIST (Spring 2021)</li>
+</ul>
 
 
 
