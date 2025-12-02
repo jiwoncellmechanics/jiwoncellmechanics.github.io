@@ -15,7 +15,7 @@ If you're interested in connecting or collaborating, please feel free to reach o
 .cv-grid {
   display: grid;
   grid-template-columns: 1fr auto;
-  gap: .4rem 2rem;
+  gap: .4rem 1.6rem;
   margin: 1rem 0;
 }
 .cv-left { line-height: 1.35; }
