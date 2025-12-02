@@ -148,7 +148,44 @@ If you're interested in connecting or collaborating, please feel free to reach o
 
 </div>
 
+
 <hr>
+
+<div class="cv-grid">
+
+  <div class="cv-item">
+    <div class="cv-left">
+      <h3>Teaching</h3>
+    </div>
+  </div>
+
+</div>
+
+
+<div class="cv-grid">
+
+  <div class="cv-item">
+    <div class="cv-left">
+      <h3>
+        Biomedical Engineering Design and Innovation
+        <a href="https://engineering.brown.edu/research/hibbitt-fellows" target="_blank" class="no-bold">🔗(yes, that's me!)</a>
+      </h3>
+      <div class="inst">Brown University ENGN0930L/1930L</div>
+      <div class="sub">
+        Co-instructor: Prof. Anubhav Tripathi
+      </div>
+    </div>
+    <div class="cv-right">
+      Sep. 2024 – Dec. 2024 <br>
+    </div>
+  </div>
+
+ 
+<hr>
+
+
+
+
 
 <p><strong>Skills: </strong> 3D cell culture, Biocompatible hydrogel fabrication (2D, 3D), Invasion assay (embedding cell spheroids within hydrogel), Spreading assay (plating cell spheroids on hydrogel), 4D Live-cell imaging, Image processing, Optical flow, Traction force microscopy, Atomic force microscopy, Design and fabrication of microfluidics, qPCR, Immunofluorescence.</p>
 
