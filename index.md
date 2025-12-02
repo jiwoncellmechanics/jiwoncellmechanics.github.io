@@ -182,7 +182,6 @@ If you're interested in connecting or collaborating, please feel free to reach o
  
 <hr>
 
-<hr>
 
 <h3>Awards & Honors</h3>
 
@@ -195,6 +194,7 @@ If you're interested in connecting or collaborating, please feel free to reach o
 </ul>
 
 
+<hr>
 
 
 
