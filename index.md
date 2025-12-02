@@ -185,14 +185,13 @@ If you're interested in connecting or collaborating, please feel free to reach o
 
 <h3>Awards & Honors</h3>
 
-<ul>
-  <li>Rising Stars in Mechanical Engineering, MIT (2025)</li>
-  <li>Hibbitt Postdoctoral Fellowship, Brown University (2023–2025)</li>
-  <li>Outstanding Teaching Assistant Award, Fluid Mechanics, KAIST (Fall 2021)</li>
-  <li>Outstanding Teaching Assistant Award, Fluid Mechanics, KAIST (Fall 2020)</li>
-  <li>Outstanding Teaching Assistant Award, Capstone Design I, KAIST (Spring 2021)</li>
-</ul>
-
+<p>
+Rising Stars in Mechanical Engineering, MIT (2025)<br>
+Hibbitt Postdoctoral Fellowship, Brown University (2023–2025)<br>
+Outstanding Teaching Assistant Award, Fluid Mechanics, KAIST (Fall 2021)<br>
+Outstanding Teaching Assistant Award, Fluid Mechanics, KAIST (Fall 2020)<br>
+Outstanding Teaching Assistant Award, Capstone Design I, KAIST (Spring 2021)<br>
+</p>
 
 <hr>
 
