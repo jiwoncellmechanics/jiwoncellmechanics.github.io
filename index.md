@@ -195,8 +195,23 @@ Outstanding Teaching Assistant Award, Capstone Design I, KAIST (Spring 2021)<br>
 
 <hr>
 
+<h3>Skills</h3>
 
+<p>
+<strong>3D Tissue Engineering:</strong>  
+3D cell culture, biocompatible hydrogel fabrication, 3D migration and cell-ECM interaction assays
+<br>
 
-<p><strong>Skills: </strong> 3D cell culture, Biocompatible hydrogel fabrication (2D, 3D), Invasion assay (embedding cell spheroids within hydrogel), Spreading assay (plating cell spheroids on hydrogel), 4D Live-cell imaging, Image processing, Optical flow, Traction force microscopy, Atomic force microscopy, Design and fabrication of microfluidics, qPCR, Immunofluorescence.</p>
+<strong>Advanced Imaging & Quantification:</strong>  
+4D live-cell confocal microscopy, traction force microscopy, atomic force microscopy, image-based analysis workflows  
+<br>
+
+<strong>Microfabrication & Experimental Design:</strong>  
+Design and fabrication of microfluidic systems
+<br>
+
+<strong>Molecular & Cellular Analysis</strong>  
+</p>
+
 
 </div>
