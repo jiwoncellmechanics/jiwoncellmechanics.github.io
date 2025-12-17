@@ -12,8 +12,23 @@ header:
   teaser: /assets/image147.gif
 ---
 
-Kim, J., Park, K. Y., Choi, S., Ko, U. H., Lim, D. S., Suh, J. M., & Shin, J. H. (2022). [**Ceiling culture chip reveals dynamic lipid droplet transport during adipocyte dedifferentiation via actin remodeling.**](https://pubs.rsc.org/en/content/articlelanding/2022/lc/d2lc00428c) *Lab on a Chip, 22*(20), 3920-3932.
+Kim, J., Park, K. Y., Choi, S., Ko, U. H., Lim, D. S., Suh, J. M., & Shin, J. H. (2022). **Ceiling culture chip reveals dynamic lipid droplet transport during adipocyte dedifferentiation via actin remodeling.** *Lab on a Chip, 22*(20), 3920-3932.
 
+<div style="text-align:center; margin:1.5rem 0;">
+  <a href="https://pubs.rsc.org/en/content/articlelanding/2022/lc/d2lc00428c"
+     target="_blank"
+     style="
+       display:inline-block;
+       padding:0.75rem 1.5rem;
+       border:2px solid #333;
+       border-radius:6px;
+       text-decoration:none;
+       font-weight:600;
+       color:#333;
+     ">
+    Read the Paper →
+  </a>
+</div>
 
 <div style="text-align:center; margin:1.5rem 0;">
   <a href="https://pubs.rsc.org/en/content/articlelanding/2022/lc/d2lc00428c"
@@ -32,6 +47,20 @@ Kim, J., Park, K. Y., Choi, S., Ko, U. H., Lim, D. S., Suh, J. M., & Shin, J. H.
     📄 View Publication
   </a>
 </div>
+
+<a href="https://pubs.rsc.org/en/content/articlelanding/2022/lc/d2lc00428c"
+   target="_blank"
+   style="
+     display:inline-block;
+     padding:0.8rem 1.6rem;
+     background:#2563eb;
+     color:white;
+     border-radius:6px;
+     text-decoration:none;
+     font-weight:600;
+   ">
+  Read on Lab on a Chip
+</a>
 
 
 It was once believed that fat cells (adipocytes) were *terminally* differentiated.
