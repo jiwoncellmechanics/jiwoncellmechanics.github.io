@@ -12,6 +12,8 @@ header:
   teaser: /assets/image147.gif
 ---
 
+Kim, J., Park, K. Y., Choi, S., Ko, U. H., Lim, D. S., Suh, J. M., & Shin, J. H. (2022). [**Ceiling culture chip reveals dynamic lipid droplet transport during adipocyte dedifferentiation via actin remodeling.**](https://pubs.rsc.org/en/content/articlelanding/2022/lc/d2lc00428c) *Lab on a Chip, 22*(20), 3920-3932.
+
 
 It was once believed that fat cells (adipocytes) were *terminally* differentiated.
 The term *terminal* implies that the form and function of the cells are fixed forever and cannot be reversed into a state with greater potentials (stemness).
@@ -20,7 +22,7 @@ The term *terminal* implies that the form and function of the cells are fixed fo
   <img src="/assets/adipocyte_wiki.jpg" width="400">
   <p style="font-size:0.85rem; color:#777; margin-top:0.5rem;">
    Fat cells look like bubbles, filled with fat.
-   Image from Wikipedia, courtesy: Department of Histology, Jagiellonian University Medical College.
+   Image from Wikipedia.
   </p>
 </div>
 
