@@ -7,11 +7,10 @@ author_profile: false
 
 ## Women in Biomedical Engineering, 2025 KOSOMBE Fall Conference
 Inje University, November 2025
+
 <img src="/assets/IMG_7700.JPG" width="500"
      style="display:block; margin:0 auto; max-width:100%; height:auto;">
-
-
-
+     
 ---
 
 ## Connecting Intermediate Filament Seminar Series  
