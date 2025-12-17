@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Publications"
+title: "Selected Publications"
 permalink: /publications/
 classes: wide
 ---
