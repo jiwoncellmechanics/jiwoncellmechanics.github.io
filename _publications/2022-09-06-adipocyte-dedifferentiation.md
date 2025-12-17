@@ -12,23 +12,85 @@ header:
   teaser: /assets/image147.gif
 ---
 
-Kim, J., Park, K. Y., Choi, S., Ko, U. H., Lim, D. S., Suh, J. M., & Shin, J. H. (2022). **Ceiling culture chip reveals dynamic lipid droplet transport during adipocyte dedifferentiation via actin remodeling.** *Lab on a Chip, 22*(20), 3920-3932.
+<div style="
+  border:1px solid #e5e7eb;
+  border-radius:8px;
+  padding:1.2rem 1.5rem;
+  margin:2rem 0;
+  background:#fafafa;
+">
+  <p style="margin-top:0;">
+    <strong>Kim, J.</strong>, et al. (2022).  
+    <em>Ceiling culture chip reveals dynamic lipid droplet transport during adipocyte dedifferentiation via actin remodeling.</em>  
+    <br>
+    <span style="color:#555;">Lab on a Chip</span>
+  </p>
 
-<div style="text-align:center; margin:1.5rem 0;">
+  <div style="margin-top:1rem;">
+    <a href="https://pubs.rsc.org/en/content/articlelanding/2022/lc/d2lc00428c"
+       target="_blank"
+       style="
+         display:inline-block;
+         padding:0.6rem 1.2rem;
+         border:2px solid #333;
+         border-radius:6px;
+         text-decoration:none;
+         font-weight:600;
+         color:#333;
+       ">
+      Read the Paper →
+    </a>
+  </div>
+</div>
+
+<div style="
+  border-left:4px solid #2563eb;
+  padding:1rem 1.2rem;
+  margin:2rem 0;
+  background:#f8fafc;
+">
+  <p style="margin-top:0;">
+    <strong>Kim, J.</strong>, et al. (2022).  
+    <em>Ceiling culture chip reveals dynamic lipid droplet transport during adipocyte dedifferentiation via actin remodeling.</em>  
+    <br>
+    <span style="color:#555;">Lab on a Chip</span>
+  </p>
+
+  <a href="https://pubs.rsc.org/en/content/articlelanding/2022/lc/d2lc00428c"
+     target="_blank"
+     style="font-weight:600;">
+    → Journal Link
+  </a>
+</div>
+
+<div style="
+  border:1px dashed #d1d5db;
+  border-radius:8px;
+  padding:1.2rem;
+  margin:2rem 0;
+">
+  <p>
+    📄 <strong>Publication</strong><br>
+    Kim, J. et al., <em>Lab on a Chip</em> (2022)
+  </p>
+
   <a href="https://pubs.rsc.org/en/content/articlelanding/2022/lc/d2lc00428c"
      target="_blank"
      style="
        display:inline-block;
-       padding:0.75rem 1.5rem;
-       border:2px solid #333;
+       background:#2563eb;
+       color:white;
+       padding:0.5rem 1rem;
        border-radius:6px;
        text-decoration:none;
        font-weight:600;
-       color:#333;
      ">
-    Read the Paper →
+    View Article
   </a>
 </div>
+
+
+Kim, J., Park, K. Y., Choi, S., Ko, U. H., Lim, D. S., Suh, J. M., & Shin, J. H. (2022). **Ceiling culture chip reveals dynamic lipid droplet transport during adipocyte dedifferentiation via actin remodeling.** *Lab on a Chip, 22*(20), 3920-3932.
 
 <div style="text-align:center; margin:1.5rem 0;">
   <a href="https://pubs.rsc.org/en/content/articlelanding/2022/lc/d2lc00428c"
@@ -48,31 +110,6 @@ Kim, J., Park, K. Y., Choi, S., Ko, U. H., Lim, D. S., Suh, J. M., & Shin, J. H.
   </a>
 </div>
 
-<a href="https://pubs.rsc.org/en/content/articlelanding/2022/lc/d2lc00428c"
-   target="_blank"
-   style="
-     display:inline-block;
-     padding:0.8rem 1.6rem;
-     background:#2563eb;
-     color:white;
-     border-radius:6px;
-     text-decoration:none;
-     font-weight:600;
-   ">
-  Read on Lab on a Chip
-</a>
-
-
-It was once believed that fat cells (adipocytes) were *terminally* differentiated.
-The term *terminal* implies that the form and function of the cells are fixed forever and cannot be reversed into a state with greater potentials (stemness).
-
-<div style="text-align:center;">
-  <img src="/assets/adipocyte_wiki.jpg" width="400">
-  <p style="font-size:0.85rem; color:#777; margin-top:0.5rem;">
-   Fat cells look like bubbles, filled with fat.
-   Image from Wikipedia.
-  </p>
-</div>
 
 However, recent studies have revealed that adipocytes can be reversed into stem cells under certain conditions. Dedifferentiated adipocytes (DFATs) can differentiate into bone cells, cartilage cells, muscle cells, and blood vessel cells: **_Someday, you might replace broken part of your body with your excess fat!_**
 
