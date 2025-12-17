@@ -14,6 +14,7 @@ The Rising Stars workshop is an academic career workshop that invites 30 leading
   <img src="/assets/RisingStar.jpg" width="500">
 </div>
 
+
 🔗 [School of Engineering News Feature](https://engineering.brown.edu/news/2025-10-27/kim-chosen-mit-rising-star)
 
 ---
