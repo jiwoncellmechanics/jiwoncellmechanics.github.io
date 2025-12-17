@@ -11,7 +11,6 @@ classes: wide
 header:
   teaser: /assets/image147.gif
 ---
-
 <div style="
   border:1px solid #e5e7eb;
   border-radius:8px;
@@ -26,7 +25,7 @@ header:
     <span style="color:#555;">Lab on a Chip</span>
   </p>
 
-  <div style="margin-top:1rem;">
+  <div style="margin-top:1rem; text-align:center;">
     <a href="https://pubs.rsc.org/en/content/articlelanding/2022/lc/d2lc00428c"
        target="_blank"
        style="
@@ -43,74 +42,10 @@ header:
   </div>
 </div>
 
-<div style="
-  border-left:4px solid #2563eb;
-  padding:1rem 1.2rem;
-  margin:2rem 0;
-  background:#f8fafc;
-">
-  <p style="margin-top:0;">
-    <strong>Kim, J.</strong>, et al. (2022).  
-    <em>Ceiling culture chip reveals dynamic lipid droplet transport during adipocyte dedifferentiation via actin remodeling.</em>  
-    <br>
-    <span style="color:#555;">Lab on a Chip</span>
-  </p>
-
-  <a href="https://pubs.rsc.org/en/content/articlelanding/2022/lc/d2lc00428c"
-     target="_blank"
-     style="font-weight:600;">
-    → Journal Link
-  </a>
-</div>
-
-<div style="
-  border:1px dashed #d1d5db;
-  border-radius:8px;
-  padding:1.2rem;
-  margin:2rem 0;
-">
-  <p>
-    📄 <strong>Publication</strong><br>
-    Kim, J. et al., <em>Lab on a Chip</em> (2022)
-  </p>
-
-  <a href="https://pubs.rsc.org/en/content/articlelanding/2022/lc/d2lc00428c"
-     target="_blank"
-     style="
-       display:inline-block;
-       background:#2563eb;
-       color:white;
-       padding:0.5rem 1rem;
-       border-radius:6px;
-       text-decoration:none;
-       font-weight:600;
-     ">
-    View Article
-  </a>
-</div>
 
 
-Kim, J., Park, K. Y., Choi, S., Ko, U. H., Lim, D. S., Suh, J. M., & Shin, J. H. (2022). **Ceiling culture chip reveals dynamic lipid droplet transport during adipocyte dedifferentiation via actin remodeling.** *Lab on a Chip, 22*(20), 3920-3932.
-
-<div style="text-align:center; margin:1.5rem 0;">
-  <a href="https://pubs.rsc.org/en/content/articlelanding/2022/lc/d2lc00428c"
-     target="_blank"
-     style="
-       display:inline-block;
-       padding:0.8rem 1.6rem;
-       border:2px solid #1f2933;
-       background-color:#f9fafb;
-       border-radius:8px;
-       text-decoration:none;
-       font-weight:700;
-       letter-spacing:0.02em;
-       color:#1f2933;
-     ">
-    📄 View Publication
-  </a>
-</div>
-
-
+It was once believed that fat cells (adipocytes) were *terminally* differentiated.
+The term *terminal* implies that the form and function of the cells are fixed forever and cannot be reversed into a state with greater potentials (stemness).
 However, recent studies have revealed that adipocytes can be reversed into stem cells under certain conditions. Dedifferentiated adipocytes (DFATs) can differentiate into bone cells, cartilage cells, muscle cells, and blood vessel cells: **_Someday, you might replace broken part of your body with your excess fat!_**
 
 But nobody has witnessed how a fat cell spits out its fat pocket and becomes a stem cell, mainly because of following two reasons:
