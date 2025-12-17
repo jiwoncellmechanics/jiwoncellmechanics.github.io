@@ -12,9 +12,6 @@ The Rising Stars workshop is an academic career workshop that invites 30 leading
 
 <div style="text-align:center;">
   <img src="/assets/RisingStar.HEIC" width="400">
-  <p style="font-size:0.85rem; color:#777; margin-top:0.5rem;">
-   *Hibbitt Luncheon (2023)*
-  </p>
 </div>
 
 🔗 [School of Engineering News Feature](https://engineering.brown.edu/news/2025-10-27/kim-chosen-mit-rising-star)
@@ -28,7 +25,7 @@ I was awarded the **Hibbitt Postdoctoral Fellowship** at **Brown University**. A
 <div style="text-align:center;">
   <img src="/assets/Hibbitt-Luncheon-2025-small.jpg" width="400">
   <p style="font-size:0.85rem; color:#777; margin-top:0.5rem;">
-   Hibbitt Luncheon (2023)
+   Hibbitt Luncheon (2025)
   </p>
 </div>
      
