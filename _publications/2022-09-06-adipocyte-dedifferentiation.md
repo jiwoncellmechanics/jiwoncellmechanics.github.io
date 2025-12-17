@@ -11,6 +11,18 @@ classes: wide
 header:
   teaser: /assets/image147.gif
 ---
+<style>
+.pub-btn {
+  transition: all 0.2s ease;
+}
+
+.pub-btn:hover {
+  background-color: #333;
+  color: white;
+  transform: translateY(-2px);
+}
+</style>
+
 <div style="
   border:1px solid #e5e7eb;
   border-radius:8px;
@@ -26,21 +38,20 @@ header:
     <span style="color:#555;">Lab on a Chip</span>(20), 3920-3932.
   </p>
 
-  <div style="margin-top:1rem; text-align:center;">
-    <a href="https://pubs.rsc.org/en/content/articlelanding/2022/lc/d2lc00428c"
-       target="_blank"
-       style="
-         display:inline-block;
-         padding:0.6rem 1.2rem;
-         border:2px solid #333;
-         border-radius:6px;
-         text-decoration:none;
-         font-weight:600;
-         color:#333;
-       ">
-      Read the Paper →
-    </a>
-  </div>
+<a class="pub-btn"
+   href="https://pubs.rsc.org/en/content/articlelanding/2022/lc/d2lc00428c"
+   target="_blank"
+   style="
+     display:inline-block;
+     padding:0.6rem 1.2rem;
+     border:2px solid #333;
+     border-radius:6px;
+     text-decoration:none;
+     font-weight:600;
+     color:#333;
+   ">
+  Read the Paper →
+</a>
 </div>
 
 It was once believed that fat cells (adipocytes) were *terminally* differentiated.
