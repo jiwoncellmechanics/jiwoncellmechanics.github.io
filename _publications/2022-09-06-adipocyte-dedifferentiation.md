@@ -15,6 +15,25 @@ header:
 Kim, J., Park, K. Y., Choi, S., Ko, U. H., Lim, D. S., Suh, J. M., & Shin, J. H. (2022). [**Ceiling culture chip reveals dynamic lipid droplet transport during adipocyte dedifferentiation via actin remodeling.**](https://pubs.rsc.org/en/content/articlelanding/2022/lc/d2lc00428c) *Lab on a Chip, 22*(20), 3920-3932.
 
 
+<div style="text-align:center; margin:1.5rem 0;">
+  <a href="https://pubs.rsc.org/en/content/articlelanding/2022/lc/d2lc00428c"
+     target="_blank"
+     style="
+       display:inline-block;
+       padding:0.8rem 1.6rem;
+       border:2px solid #1f2933;
+       background-color:#f9fafb;
+       border-radius:8px;
+       text-decoration:none;
+       font-weight:700;
+       letter-spacing:0.02em;
+       color:#1f2933;
+     ">
+    📄 View Publication
+  </a>
+</div>
+
+
 It was once believed that fat cells (adipocytes) were *terminally* differentiated.
 The term *terminal* implies that the form and function of the cells are fixed forever and cannot be reversed into a state with greater potentials (stemness).
 
