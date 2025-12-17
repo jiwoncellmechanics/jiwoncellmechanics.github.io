@@ -5,15 +5,14 @@ permalink: /invitedtalks/
 author_profile: false
 ---
 
-## Women in Biomedical Engineering  
-*KOSOMBE Fall Conference, 2025*
-
-<img src="/assets/talks/kosombe.png" width="500">
+## Women in Biomedical Engineering, 2025 KOSOMBE Fall Conference
+Inje University, November 2025
+<img src="/assets/IMG_7700.jpg" width="500">
 
 ---
 
 ## Connecting Intermediate Filament Seminar Series  
-*Virtual, May 2025*
+May 2025, Virtual
 
 <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; max-width:100%;">
   <iframe
@@ -28,6 +27,6 @@ author_profile: false
 ---
 
 ## M&M Special Lecture  
-*KAIST, March 2025*
+KAIST, March 2025
 
-<img src="/assets/talks/kaist_mm.png" width="500">
+<img src="/assets/KAIST_Special Lecture.jpg" width="500">
