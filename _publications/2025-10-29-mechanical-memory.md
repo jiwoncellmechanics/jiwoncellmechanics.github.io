@@ -45,8 +45,6 @@ header:
     <u>Kim , J.</u>, Jeong, H., Jeon, Y. W., Min, C., Wong, I. Y., & Shin, J. H. (2025).
     Collective Mechanical Memory Encoded by Long-Lasting Supracellular Cytoskeletal Structures in Multicellular Spheroids.
     <em>ACS Applied Materials & Interfaces, 17</em>(46), 63089-63102.
-    <br>
-    <span style="color:#555;">
   </p>
 
 <div style="margin-top:1rem; text-align:center;">
