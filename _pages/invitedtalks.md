@@ -7,7 +7,10 @@ author_profile: false
 
 ## Women in Biomedical Engineering, 2025 KOSOMBE Fall Conference
 Inje University, November 2025
-<img src="/assets/IMG_7700.JPG" width="500">
+<img src="/assets/IMG_7700.JPG" width="500"
+     style="display:block; margin:0 auto; max-width:100%; height:auto;">
+
+
 
 ---
 
@@ -29,4 +32,5 @@ May 2025, Virtual
 ## M&M Special Lecture  
 KAIST, March 2025
 
-<img src="/assets/KAIST_Special Lecture.JPG" width="500">
+<img src="/assets/KAIST_Special Lecture.JPG" width="500"
+     style="display:block; margin:0 auto; max-width:100%; height:auto;">
