@@ -20,13 +20,22 @@ The Rising Stars workshop is an academic career workshop that invites 30 leading
 
 ## Awarded the Hibbitt Postdoctoral Fellowship (2023 - present)
 
-I was awarded the **Hibbitt Postdoctoral Fellowship** at **Brown University**, which supports independent and interdisciplinary research by early-career scholars.
+I was awarded the **Hibbitt Postdoctoral Fellowship** at **Brown University**. Awardees are be expected to carry out independent and collaborative research with engineering faculty members. They are also expected to teach one course per year in the School, to help connect innovations in the research environment to concepts taught in courses, and to ensure they develop strong teaching skills prior to launching their faculty careers.
 
-<img src="/assets/IMG_6720.PNG" width="500"
-     style="display:block; margin:0 auto; max-width:100%; height:auto;">
+
+<div style="text-align:center;">
+  <img src="/assets/Hibbitt-Luncheon-2025-small" width="400">
+  <p style="font-size:0.85rem; color:#777; margin-top:0.5rem;">
+   *Hibbitt Luncheon (2025)*
+  </p>
+</div>
      
-<img src="/assets/Hibbitt-Luncheon-2025-small.jpg" width="500"
-     style="display:block; margin:0 auto; max-width:100%; height:auto;">
+<div style="text-align:center;">
+  <img src="/assets/IMG_6720.PNG" width="400">
+  <p style="font-size:0.85rem; color:#777; margin-top:0.5rem;">
+   *Hibbitt Luncheon (2023)*
+  </p>
+</div>
      
 
 🔗 [Hibbitt Postdoctoral Fellowship – Brown University](https://engineering.brown.edu/research/hibbitt-fellows)
