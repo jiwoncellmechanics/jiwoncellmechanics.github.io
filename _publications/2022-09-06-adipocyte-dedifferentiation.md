@@ -13,15 +13,26 @@ header:
 ---
 <style>
 .pub-btn {
-  transition: all 0.2s ease;
+  display:inline-block;
+  padding:0.6rem 1.2rem;
+  border:2px solid #333;
+  border-radius:6px;
+  text-decoration:none;
+  font-weight:600;
+  color:#333;
+  background:#fafafa;              /* 기본 배경 */
+  transition: background-color 0.2s ease,
+              color 0.2s ease,
+              transform 0.15s ease;
 }
 
 .pub-btn:hover {
-  background-color: #333;
-  color: white;
-  transform: translateY(-2px);
+  background:#e5e7eb;              /* 살짝 진해진 회색 */
+  color:#111;                      /* 글자도 아주 약간만 */
+  transform: translateY(-1px);     /* 과하지 않게 */
 }
 </style>
+
 
 <div style="
   border:1px solid #e5e7eb;
@@ -38,20 +49,13 @@ header:
     <span style="color:#555;">Lab on a Chip</span>(20), 3920-3932.
   </p>
 
-<a class="pub-btn"
-   href="https://pubs.rsc.org/en/content/articlelanding/2022/lc/d2lc00428c"
-   target="_blank"
-   style="
-     display:inline-block;
-     padding:0.6rem 1.2rem;
-     border:2px solid #333;
-     border-radius:6px;
-     text-decoration:none;
-     font-weight:600;
-     color:#333;
-   ">
-  Read the Paper →
-</a>
+<div style="margin-top:1rem; text-align:center;">
+  <a class="pub-btn"
+     href="https://pubs.rsc.org/en/content/articlelanding/2022/lc/d2lc00428c"
+     target="_blank">
+    Read the Paper →
+  </a>
+</div>
 </div>
 
 It was once believed that fat cells (adipocytes) were *terminally* differentiated.
