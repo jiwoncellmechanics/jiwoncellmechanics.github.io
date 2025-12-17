@@ -44,9 +44,7 @@ header:
   <p style="margin-top:0;">
     <u>Kim , J.</u>, Park, K. Y., Choi, S., Ko, U. H., Lim, D. S., Suh, J. M., & Shin, J. H. (2022).  
     Ceiling culture chip reveals dynamic lipid droplet transport during adipocyte dedifferentiation via actin remodeling.
-    <em>Lab on a Chip, 22</em>
-    <br>
-    <span style="color:#555;">Lab on a Chip</span>(20), 3920-3932.
+    <em>Lab on a Chip, 22</em>(20), 3920-3932.
   </p>
 
 <div style="margin-top:1rem; text-align:center;">
