@@ -1,8 +1,18 @@
 ---
-layout: collection
+layout: single
 title: "News"
-collection: news
-entries_layout: list
 permalink: /news/
 author_profile: false
+---
+
+## Selected as a Rising Star in Mechanical Engineering (2025)
+
+**I was selected for the 2025 Rising Stars in Mechanical Engineering Workshop, held at the Massachusetts Institute of Technology October 23 and 24.**
+The Rising Stars workshop is an academic career workshop that invites 30 leading female postdoctoral researchers or graduate students to develop their career skills, connect with a cohort of peers, and engage with mentors in anticipation of future careers in academia.
+
+
+
+🔗 [MIT Rising Stars in Mechanical Engineering – Official Website](https://risingstarsme.mit.edu/)  
+🔗 [School of Engineering News Feature](https://engineering.brown.edu/news/2025-10-27/kim-chosen-mit-rising-star)
+
 ---
