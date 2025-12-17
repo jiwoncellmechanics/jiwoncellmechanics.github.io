@@ -20,16 +20,16 @@ header:
   text-decoration:none;
   font-weight:600;
   color:#333;
-  background:#fafafa;              /* 기본 배경 */
+  background:#fafafa;
   transition: background-color 0.2s ease,
               color 0.2s ease,
               transform 0.15s ease;
 }
 
 .pub-btn:hover {
-  background:#e5e7eb;              /* 살짝 진해진 회색 */
-  color:#111;                      /* 글자도 아주 약간만 */
-  transform: translateY(-1px);     /* 과하지 않게 */
+  background:#e5e7eb;
+  color:#111;
+  transform: none;
 }
 </style>
 
