@@ -136,4 +136,26 @@ Also, we could take a closer look at the actin structure (thanks to the thin cha
 
 One more interesting thing - we witnessed that the cells not only just secret the lipid droplet, but also *exchange* them.
 
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 1rem;">
+  <div style="text-align:center; flex:1;">
+    <div style="height:220px; display:flex; align-items:center; justify-content:center;">
+      <img src="/assets/coculture.png"
+           style="max-height:100%; max-width:100%; object-fit:contain;">
+    </div>
+    <p style="font-size:0.8rem; color:#777;">Cell with green lipid droplet transfer its lipid content to another cell with red membrane.</p>
+  </div>
 
+  <div style="text-align:center; flex:1;">
+    <div style="height:220px; display:flex; align-items:center; justify-content:center;">
+      <img src="/assets/image155.gif"
+           style="max-height:100%; max-width:100%; object-fit:contain;">
+    </div>
+    <p style="font-size:0.8rem; color:#777;">Lipid droplet transport could be unidirectional.</p>
+  </div>
+</div>
+
+Lipid droplet transfer also could be bidirectional.
+<div style="text-align:center;">
+  <img src="/assets/image163.gif" width="500">
+  <p style="font-size:0.8rem; color:#777;">Bidirectional lipid droplet transfer.</p>
+</div>
