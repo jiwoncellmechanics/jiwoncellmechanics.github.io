@@ -14,7 +14,7 @@ Inje University, November 2025
 ---
 
 ## Connecting Intermediate Filament Seminar Series  
-May 2025, Virtual
+Virtual, May 2025
 
 <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; max-width:100%;">
   <iframe
