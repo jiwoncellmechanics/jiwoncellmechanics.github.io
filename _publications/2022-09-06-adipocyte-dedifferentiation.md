@@ -114,3 +114,11 @@ Our innovation was to make the microfluidic chip **two-layered**. This staightfo
 </div>
 
 # With our chip (which we named *ceiling culuture chip*), we explored different ECM conditions, and molecular interventions. Interestingly, # we found that conditions promoting adipocyte differentiation inhibit adipocyte **de**differentiation, and *vice versa.*
+
+With our newly desinged chip, we could capture the dedifferentiating adipocytes undergo abrupt liposecretion.
+
+Also, we could take a closer look at the actin structure (thanks to the thin channel structure) and figured out that the cells make *actin hole* through which they squeeze out the large lipid droplet, which once accounted for more than 90% of the cells' cytoplasm.
+
+One more interesting thing - we witnessed that the cells not only just secret the lipid droplet, but also *exchange* them.
+
+
