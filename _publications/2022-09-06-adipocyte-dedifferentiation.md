@@ -56,7 +56,10 @@ header:
 </div>
 </div>
 
-
+<div style="text-align:center;">
+  <img src="/assets/waddington.jpeg" width="300">
+  <p style="font-size:0.8rem; color:#777;">Waddington’s epigenetic landscape. Nemec, S., Nature Reviews Materials (2021)</p>
+</div>
 
 It was once believed that fat cells (adipocytes) were *terminally* differentiated.
 The term *terminal* implies that the form and function of the cells are fixed forever and cannot be reversed into a state with greater potentials (stemness).
@@ -98,11 +101,18 @@ With our chip (which we named *ceiling culuture chip*), we explored different EC
 
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 1rem;">
   <div style="text-align:center; flex:1;">
-    <img src="/assets/ceilingculturechipillustration.png" width="300">
+    <div style="height:220px; display:flex; align-items:center; justify-content:center;">
+      <img src="/assets/ceilingculturechipillustration.png"
+           style="max-height:100%; max-width:100%; object-fit:contain;">
+    </div>
     <p style="font-size:0.8rem; color:#777;">Ceiling Culture Chip</p>
   </div>
+
   <div style="text-align:center; flex:1;">
-    <img src="/assets/celltrap.png" width="300">
+    <div style="height:220px; display:flex; align-items:center; justify-content:center;">
+      <img src="/assets/celltrap.png"
+           style="max-height:100%; max-width:100%; object-fit:contain;">
+    </div>
     <p style="font-size:0.8rem; color:#777;">Floating adipocytes remain stably trapped in position.</p>
   </div>
 </div>
