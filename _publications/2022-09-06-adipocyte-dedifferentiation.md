@@ -130,8 +130,8 @@ With our newly desinged chip, we could capture the dedifferentiating adipocytes 
 Also, we could take a closer look at the actin structure (thanks to the thin channel structure) and figured out that the cells make *actin hole* through which they squeeze out the large lipid droplet, which once accounted for more than 90% of the cells' cytoplasm.
 
 <div style="text-align:center;">
-  <img src="/assets/image146.gif" width="300">
-  <p style="font-size:0.8rem; color:#777;">Pop!</p>
+  <img src="/assets/actinhole.png" width="500">
+  <p style="font-size:0.8rem; color:#777;">Actin hole (white arrowhead), prepared for liposecretion.</p>
 </div>
 
 One more interesting thing - we witnessed that the cells not only just secret the lipid droplet, but also *exchange* them.
