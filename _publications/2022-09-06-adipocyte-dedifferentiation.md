@@ -57,7 +57,7 @@ header:
 </div>
 
 <div style="text-align:center;">
-  <img src="/assets/waddington.jpeg" width="300">
+  <img src="/assets/waddington.jpg" width="300">
   <p style="font-size:0.8rem; color:#777;">Waddington’s epigenetic landscape. Nemec, S., Nature Reviews Materials (2021)</p>
 </div>
 
