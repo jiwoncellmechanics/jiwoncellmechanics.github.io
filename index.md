@@ -79,13 +79,11 @@ If you're interested in connecting or collaborating, please feel free to reach o
   <div class="cv-item">
     <div class="cv-left">
       <h3>
-        Hibbitt Postdoctoral Fellow in Engineering
-        <a href="https://engineering.brown.edu/research/hibbitt-fellows" target="_blank" class="no-bold">🔗</a>
+        <a href="https://engineering.brown.edu/research/hibbitt-fellows" target="_blank" class="no-bold">Hibbitt Postdoctoral Fellow in Engineering</a>
       </h3>
       <div class="inst">Brown University</div>
       <div class="sub">
-        Advisor: Prof. Ian Y. Wong
-        <a href="https://sites.brown.edu/wonglab/" target="_blank">🔗</a>
+        Advisor: <a href="https://sites.brown.edu/wonglab/" target="_blank">Prof. Ian Y. Wong</a>
       </div>
     </div>
     <div class="cv-right">
@@ -101,12 +99,10 @@ If you're interested in connecting or collaborating, please feel free to reach o
       </h3>
       <div class="inst">Korea Advanced Institute of Science and Technology (KAIST)</div>
       <div class="sub">
-        Dissertation: Dynamic Behaviors of <em>In Vitro</em> Pathophysiological Models
-        <a href="https://library.kaist.ac.kr/search/ctlgSearch/posesn/view.do?bibctrlno=1030346" target="_blank">🔗</a>
+        <a href="https://library.kaist.ac.kr/search/ctlgSearch/posesn/view.do?bibctrlno=1030346" target="_blank">Dissertation: Dynamic Behaviors of <em>In Vitro</em> Pathophysiological Models</a>
       </div>
       <div class="sub">
-        Advisor: Prof. Jennifer H. Shin
-        <a href="https://softbm.kaist.ac.kr" target="_blank">🔗</a>
+        Advisor: <a href="https://softbm.kaist.ac.kr" target="_blank">Prof. Jennifer H. Shin</a>
       </div>
     </div>
     <div class="cv-right">
@@ -124,8 +120,7 @@ If you're interested in connecting or collaborating, please feel free to reach o
         <a href="https://library.kaist.ac.kr/search/ctlgSearch/posesn/view.do?bibctrlno=733714" target="_blank">🔗</a>
       </div>
       <div class="sub">
-        Advisor: Prof. Jennifer H. Shin
-        <a href="https://softbm.kaist.ac.kr" target="_blank">🔗</a>
+        Advisor: <a href="https://softbm.kaist.ac.kr" target="_blank">Prof. Jennifer H. Shin</a>
       </div>
     </div>
     <div class="cv-right">
