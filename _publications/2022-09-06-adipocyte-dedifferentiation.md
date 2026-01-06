@@ -65,12 +65,12 @@ It was once believed that fat cells (adipocytes) were *terminally* differentiate
 The term *terminal* implies that the form and function of the cells are fixed forever and cannot be reversed into a state with greater potentials (stemness).
 However, recent studies have revealed that adipocytes can be reversed into stem cells under certain conditions. Dedifferentiated adipocytes (DFATs) can differentiate into bone cells, cartilage cells, muscle cells, and blood vessel cells: **_Someday, you might replace broken part of your body with your excess fat!_**
 
-But nobody has witnessed how a fat cell spits out its fat pocket and becomes a stem cell, mainly because of following two reasons:
+But nobody has witnessed how a fat cell expels its lipid droplet and becomes a stem cell, mainly for two reasons:
 
 (1) Once an adipocyte discharges its lipid droplet, it just looks like a fibroblast. You can't tell if it's a dedifferentiated adipocytes or a fibroblast.
-Our team resolved this issue using *Adipoq-Cre; mT/mG* system. Long story short, a cell that has a history of being an adipocytes expresses **<span style="color:green;">green</span>** fluorescences while all the other cells are **<span style="color:red;">red.</span>**
+Our team resolved this issue using *Adipoq-Cre; mT/mG* system. Long story short, a cell with a history of being an adipocyte permanently expresses **<span style="color:green;">green</span>** fluorescences, while all the other cells remain **<span style="color:red;">red.</span>**
 
-(2) Adipocytes have low specific gravity, so they float on the cell culture medium. However if they stay floating, they soon die (tricky ones!). Sugihara came up with *ceiling culture* method (1986), where the culture flask is completely filled with medium so that the adipocytes can attach and grow on the ceiling surface.
+(2) Adipocytes have low specific gravity, so they float on the cell culture medium. However if they stay floating, they soon die, which makes them particularly challenging to culture. Sugihara came up with *ceiling culture* method (1986), where the culture flask is completely filled with medium so that the adipocytes can attach and grow on the ceiling surface.
 
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 1rem;">
   <div style="text-align:center; flex:1;">
@@ -85,6 +85,7 @@ Our team resolved this issue using *Adipoq-Cre; mT/mG* system. Long story short,
 
 The ceiling culture method is a clever solution. Unfortunately, standard culture flasks are too big to fit within the working distances of high-magnification objectives and are also rather wasteful.
 
+To observe adipocyte behavior, we needed a system that could both immobilize floating adipocytes and fit under high-magnification objectives.
 **_How about using microfluidic chips?_**
 In a simple single-layered microfluidic channel, adipocytes were swept away, making it challenging to observe the dedifferentiation processes.
 
@@ -93,7 +94,7 @@ In a simple single-layered microfluidic channel, adipocytes were swept away, mak
   <p style="font-size:0.8rem; color:#777;">Yes, the floating globules are the adipocytes.</p>
 </div>
 
-Our innovation was to make the microfluidic chip **two-layered**. This staightforward design efficiently trapped floating adipocytes. Now we have an imaging-freindly (transparent and only 200 μm high), cost-effective (10 μl volume), and tunable (via ECM coating) platform.
+Our innovation was to make the microfluidic chip **two-layered**. This straightforward design efficiently trapped floating adipocytes. Now we have an imaging-friendly (transparent and only 200 μm high), cost-effective (10 μl volume), and tunable (via ECM coating) platform.
 
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 1rem;">
   <div style="text-align:center; flex:1;">
@@ -113,18 +114,18 @@ Our innovation was to make the microfluidic chip **two-layered**. This staightfo
   </div>
 </div>
 
-# With our chip (which we named *ceiling culuture chip*), we explored different ECM conditions, and molecular interventions. Interestingly, # we found that conditions promoting adipocyte differentiation inhibit adipocyte **de**differentiation, and *vice versa.*
+With our chip (which we named *ceiling culture chip*), we explored different ECM conditions and molecular interventions. Interestingly, we found that conditions promoting adipocyte differentiation inhibit adipocyte **de**differentiation, and *vice versa.*
 
-With our newly desinged chip, we could capture the dedifferentiating adipocytes undergo abrupt liposecretion.
+Furthermore, we could capture the dedifferentiating adipocytes undergo abrupt liposecretion.
 
 <div style="text-align:center;">
   <img src="/assets/image147.gif" width="300">
-  <p style="font-size:0.8rem; color:#777;">Pop!</p>
+  <p style="font-size:0.8rem; color:#777;">Pop</p>
 </div>
 
 <div style="text-align:center;">
   <img src="/assets/image146.gif" width="300">
-  <p style="font-size:0.8rem; color:#777;">Pop!</p>
+  <p style="font-size:0.8rem; color:#777;">Pop2</p>
 </div>
 
 Also, we could take a closer look at the actin structure (thanks to the thin channel structure) and figured out that the cells make *actin hole* through which they squeeze out the large lipid droplet, which once accounted for more than 90% of the cells' cytoplasm.
@@ -134,7 +135,7 @@ Also, we could take a closer look at the actin structure (thanks to the thin cha
   <p style="font-size:0.8rem; color:#777;">Actin hole (white arrowhead), prepared for liposecretion.</p>
 </div>
 
-One more interesting thing - we witnessed that the cells not only just secret the lipid droplet, but also *exchange* them.
+One more interesting thing - we witnessed that the cells not only just secrete the lipid droplet, but also *exchange* them. In many cases, the donor cell shrank and died shortly after the transfer. This might represent a strategy to preserve valuable nutrients by transferring them from an unhealthy adipocyte to a healthier one.
 
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 1rem;">
   <div style="text-align:center; flex:1;">
@@ -156,6 +157,8 @@ One more interesting thing - we witnessed that the cells not only just secret th
 
 Lipid droplet transfer also could be bidirectional.
 <div style="text-align:center;">
-  <img src="/assets/image163.gif" width="500">
+  <img src="/assets/image163.gif" width="300">
   <p style="font-size:0.8rem; color:#777;">Bidirectional lipid droplet transfer.</p>
 </div>
+
+
