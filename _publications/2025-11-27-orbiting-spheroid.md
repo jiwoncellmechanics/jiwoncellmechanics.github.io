@@ -4,7 +4,7 @@ author_profile: false
 read_time: true
 share: false
 comments: false
-title: "What Finally Makes You Take the First Step Out of Going in Circles"
+title: "What finally makes you take the first step out of going in circles"
 date: 2025-11-27
 tags: [Mechanical Memory, Substrate Stiffness, Collective Migration, Cytoskeletal Network, Gap Junction]
 classes: wide
