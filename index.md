@@ -6,7 +6,7 @@ author_profile: true
 
 I'm a mechanical engineer who experimentally investigates how forces shape living cells and tissues. A central theme of my work is how epithelial tissues or tumors are sculpted by collective cell migration in the context of a compliant extracellular matrix.<br>
 I aim to become a tenure-track faculty in Mechanical Engineering or Biomedical Engineering with a focus on the mechanobiology of cancer and women’s health.<br>
-Outside the lab, I love knitting, reading, and enjoying good seafood.
+Outside the lab, I enjoy knitting, reading, and exploring good food.
 If you're interested in connecting or collaborating, please feel free to reach out. I'd love to hear from you!
 
 <hr>
