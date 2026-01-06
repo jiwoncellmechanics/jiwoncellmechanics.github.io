@@ -4,7 +4,7 @@ author_profile: false
 read_time: true
 share: false
 comments: false
-title: "Close-up: When a Fat Cell Spits Out Its Fat Pocket and Becomes a Stem Cell"
+title: "Close-up: When a fat cell spits out its fat pocket and becomes a stem cell"
 date: 2022-09-06
 tags: [Microfluidics, Ceiling Culture, Live-cell Imaging, Adipocyte, Adipocyte Dedifferentiation, Lipid Droplet, Actin, PPARg]
 classes: wide
