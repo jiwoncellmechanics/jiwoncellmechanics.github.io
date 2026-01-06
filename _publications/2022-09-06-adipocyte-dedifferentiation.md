@@ -135,7 +135,7 @@ Also, we could take a closer look at the actin structure (thanks to the thin cha
   <p style="font-size:0.8rem; color:#777;">Actin hole (white arrowhead), prepared for liposecretion.</p>
 </div>
 
-One more interesting thing - we witnessed that the cells not only just secrete the lipid droplet, but also *exchange* them. In many cases, the donor cell shrank and died shortly after the transfer. This might represent a strategy to preserve valuable nutrients by transferring them from an unhealthy adipocyte to a healthier one.
+One more interesting thing - we witnessed that the cells not only just secrete the lipid droplet, but also *exchange* them. In many cases, the donor cell shrank and died shortly after the transfer. This might represent a strategy to preserve valuable nutrients by transferring them from an unhealthy cell to a healthier one.
 
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 1rem;">
   <div style="text-align:center; flex:1;">
@@ -160,5 +160,7 @@ Lipid droplet transfer also could be bidirectional.
   <img src="/assets/image163.gif" width="300">
   <p style="font-size:0.8rem; color:#777;">Bidirectional lipid droplet transfer.</p>
 </div>
+
+
 
 
