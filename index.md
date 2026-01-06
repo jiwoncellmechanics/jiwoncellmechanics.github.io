@@ -99,7 +99,7 @@ If you're interested in connecting or collaborating, please feel free to reach o
       </h3>
       <div class="inst">Korea Advanced Institute of Science and Technology (KAIST)</div>
       <div class="sub">
-        <a href="https://library.kaist.ac.kr/search/ctlgSearch/posesn/view.do?bibctrlno=1030346" target="_blank">Dissertation: Dynamic Behaviors of <em>In Vitro</em> Pathophysiological Models</a>
+        Dissertation: <a href="https://library.kaist.ac.kr/search/ctlgSearch/posesn/view.do?bibctrlno=1030346" target="_blank">Dynamic Behaviors of <em>In Vitro</em> Pathophysiological Models</a>
       </div>
       <div class="sub">
         Advisor: <a href="https://softbm.kaist.ac.kr" target="_blank">Prof. Jennifer H. Shin</a>
@@ -116,8 +116,7 @@ If you're interested in connecting or collaborating, please feel free to reach o
       <h3>M.S. in Mechanical Engineering</h3>
       <div class="inst">Korea Advanced Institute of Science and Technology (KAIST)</div>
       <div class="sub">
-        Thesis: Correlations between Spheroidal Phenotype and Functionality as Cancer Model
-        <a href="https://library.kaist.ac.kr/search/ctlgSearch/posesn/view.do?bibctrlno=733714" target="_blank">🔗</a>
+        Thesis: <a href="https://library.kaist.ac.kr/search/ctlgSearch/posesn/view.do?bibctrlno=733714" target="_blank">Correlations between Spheroidal Phenotype and Functionality as Cancer Model</a>
       </div>
       <div class="sub">
         Advisor: <a href="https://softbm.kaist.ac.kr" target="_blank">Prof. Jennifer H. Shin</a>
