@@ -86,9 +86,12 @@ a:visited {
 
 .sidebar .author__avatar img,
 .author__avatar img {
-  max-width: 180px !important;
-  width: 180px !important;
-  height: 180px !important;
+  width: 170px !important;
+  height: 170px !important;
+  max-width: 170px !important;
   border-radius: 50% !important;
   object-fit: cover;
+  filter: none !important;
+  opacity: 1 !important;
+  transition: none !important;
 }
