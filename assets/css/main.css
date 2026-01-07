@@ -1,5 +1,14 @@
-/* Sidebar profile image size */
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minimal-mistakes";
+
+/* ====== Your custom overrides below ====== */
 .author__avatar img {
-  max-width: 160px;   /* 기본은 ~110px */
-  border-radius: 50%;
+  max-width: 170px !important;
+  width: 170px !important;
+  height: 170px !important;
+  border-radius: 50% !important;
+  object-fit: cover;
 }
