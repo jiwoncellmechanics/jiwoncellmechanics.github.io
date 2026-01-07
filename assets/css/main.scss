@@ -83,3 +83,12 @@ a:visited {
     display: block !important;
   }
 }
+
+.sidebar .author__avatar img,
+.author__avatar img {
+  max-width: 170px !important;
+  width: 170px !important;
+  height: 170px !important;
+  border-radius: 50% !important;
+  object-fit: cover;
+}
