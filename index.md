@@ -79,7 +79,7 @@ If you're interested in connecting or collaborating, please feel free to reach o
   <div class="cv-item">
     <div class="cv-left">
       <h3>
-        <a href="https://engineering.brown.edu/research/hibbitt-fellows" target="_blank" class="no-bold">Hibbitt Postdoctoral Fellow in Engineering</a>
+        <a href="https://engineering.brown.edu/research/hibbitt-fellows" target="_blank">Hibbitt Postdoctoral Fellow in Engineering</a>
       </h3>
       <div class="inst">Brown University</div>
       <div class="sub">
