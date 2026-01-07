@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Hi, I'm Jiwon."
+title: "About"
 author_profile: true
 ---
 
