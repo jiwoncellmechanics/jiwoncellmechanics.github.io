@@ -70,7 +70,7 @@ But nobody has witnessed how a fat cell expels its lipid droplet and becomes a s
 (1) Once an adipocyte discharges its lipid droplet, it just looks like a fibroblast. You can't tell if it's a dedifferentiated adipocytes or a fibroblast.
 Our team resolved this issue using *Adipoq-Cre; mT/mG* system. Long story short, a cell with a history of being an adipocyte permanently expresses **<span style="color:green;">green</span>** fluorescences, while all the other cells remain **<span style="color:red;">red.</span>**
 
-(2) Adipocytes have low specific gravity, so they float on the cell culture medium. However if they stay floating, they soon die, which makes them particularly challenging to culture. Sugihara came up with *ceiling culture* method (1986), where the culture flask is completely filled with medium so that the adipocytes can attach and grow on the ceiling surface.
+(2) Adipocytes have low specific gravity, so they float on the cell culture medium. However if they stay floating, they soon die, which makes them particularly challenging to culture. Sugihara came up with *ceiling culture* method (1986), where the culture flask is flipped and completely filled with medium so that the adipocytes can attach and grow on the surface.
 
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 1rem;">
   <div style="text-align:center; flex:1;">
