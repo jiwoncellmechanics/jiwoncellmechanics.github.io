@@ -86,7 +86,9 @@ Our team resolved this issue using *Adipoq-Cre; mT/mG* system. Long story short,
 The ceiling culture method is a clever solution. Unfortunately, standard culture flasks are too big to fit within the working distances of high-magnification objectives and are also rather wasteful.
 
 To observe adipocyte behavior, we needed a system that could both immobilize floating adipocytes and fit under high-magnification objectives.
+
 **_How about using microfluidic chips?_**
+
 In a simple single-layered microfluidic channel, adipocytes were swept away, making it challenging to observe the dedifferentiation processes.
 
 <div style="text-align:center;">
