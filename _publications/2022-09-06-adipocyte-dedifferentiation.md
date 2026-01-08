@@ -120,13 +120,15 @@ Furthermore, we could capture the dedifferentiating adipocytes undergo abrupt li
 
 <div style="text-align:center;">
   <img src="/assets/image147.gif" width="300">
-  <p style="font-size:0.8rem; color:#777;">Pop</p>
+  <p style="font-size:0.8rem; color:#777;">Ready and Pop!</p>
 </div>
 
 <div style="text-align:center;">
   <img src="/assets/image146.gif" width="300">
   <p style="font-size:0.8rem; color:#777;">Pop2</p>
 </div>
+
+A more quantitative version of "Ready and Pop" can be found in the paper.
 
 Also, we could take a closer look at the actin structure (thanks to the thin channel structure) and figured out that the cells make *actin hole* through which they squeeze out the large lipid droplet, which once accounted for more than 90% of the cells' cytoplasm.
 
@@ -161,6 +163,6 @@ Lipid droplet transfer also could be bidirectional.
   <p style="font-size:0.8rem; color:#777;">Bidirectional lipid droplet transfer.</p>
 </div>
 
-
-
-
+Cells do all the fascinating work. But sometimes, simply observing those moments requires the assistance of Engineering.
+Designing platforms for observing, maintaining, and manipulating the living cells is what I find very crucial and also interesting.
+This work is one small example of how the right engineering can let cells tell their own stories. Stay tuned for more!
