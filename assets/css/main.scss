@@ -95,3 +95,8 @@ a:visited {
   opacity: 1 !important;
   transition: none !important;
 }
+
+.page__taxonomy-item {
+  pointer-events: none;   /* 마우스 클릭 막기 */
+  cursor: default;        /* 손가락 커서 안 뜨게 */
+}
