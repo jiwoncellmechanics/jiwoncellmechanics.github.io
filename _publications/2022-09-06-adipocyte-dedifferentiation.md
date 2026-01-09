@@ -165,4 +165,4 @@ Lipid droplet transfer also could be bidirectional.
   <p style="font-size:0.8rem; color:#777;">Bidirectional lipid droplet transfer.</p>
 </div>
 
-Cells do all the fascinating work. But sometimes, simply observing those moments requires the assistance of Engineering. **_Designing platforms for observing, maintaining, and manipulating the living cells is one of the core research theme I'm passionate about.**_ This work is one small example of how the right engineering can let cells tell their own stories. Stay tuned for more!
+Cells do all the fascinating work. But sometimes, simply observing those moments requires the assistance of Engineering. **Designing platforms for observing, maintaining, and manipulating the living cells is one of the core research theme I'm passionate about.** This work is one small example of how the right engineering can let cells tell their own stories. Stay tuned for more!
