@@ -6,7 +6,7 @@ share: false
 comments: false
 title: "What makes you take the first step out of going in circles"
 date: 2025-11-27
-tags: [Mechanical Memory, Substrate Stiffness, Collective Migration, Cytoskeletal Network, Gap Junction]
+tags: []
 classes: wide
 header:
   teaser: /assets/g15orbiting2.gif
@@ -56,5 +56,6 @@ header:
 </div>
 </div>
 
+#PREVIEW
 
 Collective transitions from orbiting to matrix invasion in three-dimensional multicellular spheroids.
