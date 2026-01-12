@@ -349,7 +349,7 @@ collections:
     order: "descending"
   miscellaneous:
     output: true
-    permalink: /miscellaneous/:title/
+    permalink: /philosophy/:title/
     sort_by: "date"
     order: "descending"
 
