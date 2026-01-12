@@ -61,6 +61,8 @@ header:
   <p style="font-size:0.8rem; color:#777;">Waddington’s epigenetic landscape. Nemec, S., Nature Reviews Materials (2021)</p>
 </div>
 
+#PREVIEW
+
 It was once believed that fat cells (adipocytes) were *terminally* differentiated.
 The term *terminal* implies that the form and function of the cells are fixed forever and cannot be reversed into a state with greater potentials (stemness).
 However, recent studies have revealed that adipocytes can be reversed into stem cells under certain conditions. Dedifferentiated adipocytes (DFATs) can differentiate into bone cells, cartilage cells, muscle cells, and blood vessel cells: **_Someday, you might replace broken part of your body with your excess fat!_**
