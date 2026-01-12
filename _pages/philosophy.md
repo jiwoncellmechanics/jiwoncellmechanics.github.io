@@ -6,3 +6,5 @@ entries_layout: list
 permalink: /philosophy/
 author_profile: false
 ---
+
+## AI is inevitable
