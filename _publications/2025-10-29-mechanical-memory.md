@@ -70,7 +70,10 @@ Another interesting fact about the ovarian cancer is that the stiffness profile 
 A fundamental question arise here: Once the cancer cell leaves their hometown, would they immediately forget their memories from there? Or is there any chance that the cells remembers the past mechanical microenvironments and be affected by it during the journey?
 To answer this question, we designed our experiment in consideration of two forementioned facts of ovarian cancer. This cancer model should experience either of soft or stiff substrate first, followed by a phase where they are completely isolated from solid substate and exist only as floating clusters.
 
-
+<div style="text-align:center;">
+  <img src="/assets/Figure 1.png" width="300">
+  <p style="font-size:0.8rem; color:#777;">Waddington’s epigenetic landscape. Nemec, S., Nature Reviews Materials (2021)</p>
+</div>
 
 
 
