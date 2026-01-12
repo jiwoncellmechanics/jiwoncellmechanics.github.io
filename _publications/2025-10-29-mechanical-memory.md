@@ -67,11 +67,16 @@ If some of these free-floating cells successfully adhere and settle down on the 
 
 Another interesting fact about the ovarian cancer is that the stiffness profile of the ovary is so heterogeneous. If you poke the ovary, some parts would go in easily, while others resist. This is important because *cells behave differently depending on the mechanical properties (herein, the stiffness) of their surrounding micronenvironement.* Cancer cells tend to become more motile and invasive on a stiffer substrates, compared to softer ones.
 
+<div style="text-align:center;">
+  <img src="/assets/heterogeneous_ovary.png" width="300">
+  <p style="font-size:0.8rem; color:#777;">Waddington’s epigenetic landscape. Nemec, S., Nature Reviews Materials (2021)</p>
+</div>
+
 A fundamental question arise here: Once the cancer cell leaves their hometown, would they immediately forget their memories from there? Or is there any chance that the cells remembers the past mechanical microenvironments and be affected by it during the journey?
 To answer this question, we designed our experiment in consideration of two forementioned facts of ovarian cancer. This cancer model should experience either of soft or stiff substrate first, followed by a phase where they are completely isolated from solid substate and exist only as floating clusters.
 
 <div style="text-align:center;">
-  <img src="/assets/Figure 1.png" width="300">
+  <img src="/assets/peritonealmetastasis.png" width="300">
   <p style="font-size:0.8rem; color:#777;">Waddington’s epigenetic landscape. Nemec, S., Nature Reviews Materials (2021)</p>
 </div>
 
