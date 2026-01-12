@@ -69,7 +69,7 @@ Another interesting fact about the ovarian cancer is that the stiffness profile 
 
 <div style="text-align:center;">
   <img src="/assets/heterogeneous_ovary.png" width="300">
-  <p style="font-size:0.8rem; color:#777;">Waddington’s epigenetic landscape. Nemec, S., Nature Reviews Materials (2021)</p>
+  <p style="font-size:0.8rem; color:#777;">Representative colored stiffness maps in the transverse plan of Mesenchymal and Non-Mesenchymal PDX tumor growth over time. Colored map represents the Young’s modulus value. Mieulet, V., Scientific Reports (2021)</p>
 </div>
 
 A fundamental question arise here: Once the cancer cell leaves their hometown, would they immediately forget their memories from there? Or is there any chance that the cells remembers the past mechanical microenvironments and be affected by it during the journey?
@@ -77,7 +77,8 @@ To answer this question, we designed our experiment in consideration of two fore
 
 <div style="text-align:center;">
   <img src="/assets/peritonealmetastasis.png" width="300">
-  <p style="font-size:0.8rem; color:#777;">Waddington’s epigenetic landscape. Nemec, S., Nature Reviews Materials (2021)</p>
+  <p style="font-size:0.8rem; color:#777;">Peritoneal metastasis of ovarian cancer. Ovarian cancer cells exfoliate into peritoneal fluid forming multicellular spheroids, and float around until they reach a secondary lesion.
+</p>
 </div>
 
 
