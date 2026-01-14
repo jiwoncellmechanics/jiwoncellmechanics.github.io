@@ -78,7 +78,7 @@ A fundamental question arise here: Once the cancer cell leaves their hometown, w
 To answer this question, we designed our experiment in consideration of two forementioned facts of ovarian cancer. This cancer model should experience either of soft or stiff substrate first, followed by a phase where they are completely isolated from solid substate and exist only as floating clusters.
 
 <div style="text-align:center;">
-  <img src="/assets/peritonealmetastasis.png" width="700">
+  <img src="/assets/Peritoneal.png" width="700">
   <p style="font-size:0.8rem; color:#777;">Peritoneal metastasis of ovarian cancer. Ovarian cancer cells exfoliate into peritoneal fluid forming multicellular spheroids, and float around until they reach a secondary lesion.
 </p>
 </div>
