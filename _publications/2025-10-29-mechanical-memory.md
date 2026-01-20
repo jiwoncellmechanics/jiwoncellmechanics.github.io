@@ -83,6 +83,7 @@ To answer this question, we designed our experiment in consideration of two fore
 </p>
 </div>
 
+Briefly, we 'educated' the ovarian cancer cell on three different levels of stiffness, created hanging drop spheroids that resembles the *in vivo* malignant spheroids, and the finally tested whether the spheroids with different history show different invasiveness.
 
 
 
