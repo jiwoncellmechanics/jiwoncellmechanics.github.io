@@ -86,21 +86,19 @@ To answer this question, we designed our experiment in consideration of two fore
 Briefly, we 'educated' the ovarian cancer cell on three different levels of stiffness, created hanging drop spheroids that resembles the *in vivo* malignant spheroids, and the finally tested whether the spheroids with different history show different invasiveness.
 
 <div style="display: flex; gap: 1rem;">
-  <img src="/assets/image245.gif" style="width: 33%; height: 33%;">
-  <img src="/assets/image244.gif" style="width: 33%; height: 33%;">
-  <img src="/assets/image243.gif" style="width: 33%; height: 33%;">
+  <img src="/assets/image245.gif" style="width: 50%; height: 50%;">
+  <img src="/assets/image243.gif" style="width: 50%; height: 50%;">
 </div>
 <div>
-  <p style="font-size:0.8rem; color:#777;">Spheroid invading on 3kPa PA gels. Spheroids made with low stiffness-primed cells (left), intermediate stiffness-primed cells (middle), and high stiffness-primed cells (right). High stiffness-primed one spread the fastest.</p>
+  <p style="font-size:0.8rem; color:#777;">Spheroid invading on 3kPa PA gels. Spheroids made with low stiffness-primed cells (left), and high stiffness-primed cells (right). High stiffness-primed one spread faster.</p>
 </div>
 
 <div style="display: flex; gap: 1rem;">
-  <img src="/assets/image253.gif" style="width: 33%; height: 33%;">
-  <img src="/assets/image252.gif" style="width: 33%; height: 33%;">
-  <img src="/assets/image251.gif" style="width: 33%; height: 33%;">
+  <img src="/assets/image253.gif" style="width: 50%; height: 50%;">
+  <img src="/assets/image251.gif" style="width: 50%; height: 50%;">
 </div>
 <div>
-  <p style="font-size:0.8rem; color:#777;">Spheroid invading into 3D collagen gel. Spheroids made with low stiffness-primed cells (left), intermediate stiffness-primed cells (middle), and high stiffness-primed cells (right). High stiffness-primed one invade the fastest.</p>
+  <p style="font-size:0.8rem; color:#777;">Spheroid invading into 3D collagen gel. Spheroids made with low stiffness-primed cells (left), and high stiffness-primed cells (right). High stiffness-primed one invade faster.</p>
 </div>
 
 
