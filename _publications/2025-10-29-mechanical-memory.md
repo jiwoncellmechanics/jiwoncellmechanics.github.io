@@ -89,6 +89,8 @@ Briefly, we 'educated' the ovarian cancer cell on three different levels of stif
   <img src="/assets/image245.gif" style="width: 33%; height: 33%;">
   <img src="/assets/image244.gif" style="width: 33%; height: 33%;">
   <img src="/assets/image243.gif" style="width: 33%; height: 33%;">
+</div>
+<div>
   <p style="font-size:0.8rem; color:#777;">Spheroid invading on 3kPa PA gels. Spheroids made with low stiffness-primed cells (left), intermediate stiffness-primed cells (middle), and high stiffness-primed cells (right). High stiffness-primed one spread the fastest.</p>
 </div>
 
@@ -96,6 +98,8 @@ Briefly, we 'educated' the ovarian cancer cell on three different levels of stif
   <img src="/assets/image253.gif" style="width: 33%; height: 33%;">
   <img src="/assets/image252.gif" style="width: 33%; height: 33%;">
   <img src="/assets/image251.gif" style="width: 33%; height: 33%;">
+</div>
+<div>
   <p style="font-size:0.8rem; color:#777;">Spheroid invading into 3D collagen gel. Spheroids made with low stiffness-primed cells (left), intermediate stiffness-primed cells (middle), and high stiffness-primed cells (right). High stiffness-primed one invade the fastest.</p>
 </div>
 
