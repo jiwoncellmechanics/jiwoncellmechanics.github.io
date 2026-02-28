@@ -46,3 +46,11 @@ classes: wide
 1.	Lily A. Cordner, Alexxa C. Cruz-Bonilla, Hyeontae Jeong, Jiwon Kim, Anh Hoang Vu, Ian Y. Wong, “Profiling Collective and Individual Cell Migration Using Biomaterial and Microfluidic Technologies,” in Microfluidic Technologies for Cell Analysis and Beyond, CRC Press, 2026.
 
 <hr>
+
+<style>
+.page__content h2,
+.page__content h3 {
+  border-bottom: none !important;
+  padding-bottom: 0 !important;
+}
+</style>
