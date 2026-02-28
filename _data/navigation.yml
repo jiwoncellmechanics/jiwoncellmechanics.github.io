@@ -7,6 +7,6 @@ main:
     url: /invitedtalks/
   - title: "News"
     url: /news/
-  - title: "Philosophy"
-    url: /philosophy/
+#  - title: "Philosophy"
+#    url: /philosophy/
 #test
