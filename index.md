@@ -99,8 +99,7 @@ If you're interested in connecting or collaborating, please feel free to reach o
       </h3>
       <div class="inst">Korea Advanced Institute of Science and Technology (KAIST)</div>
       <div class="sub">
-        Dissertation: <a href="https://library.kaist.ac.kr/search/ctlgSearch/posesn/view.do?bibctrlno=1030346" target="_blank">Dynamic Behaviors of <em>In Vitro</em> Pathophysiological Models</a>
-        <a href="/assets/Jiwon Kim_Dissertation_optimized.pdf" 
+        Dissertation: <a href="https://library.kaist.ac.kr/search/ctlgSearch/posesn/view.do?bibctrlno=1030346" target="_blank">Dynamic Behaviors of <em>In Vitro</em> Pathophysiological Models</a><a href="/assets/Jiwon Kim_Dissertation_optimized.pdf" 
    target="_blank" 
    class="cv-link">
    <i class="fas fa-file-pdf"></i>
