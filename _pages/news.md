@@ -5,15 +5,14 @@ permalink: /news/
 author_profile: false
 ---
 
-## Featured on *Hanbitsa* (2025)
+## Featured on *Hanbitsa* (2026)
 
-Our recent paper published in *Nature Physics* has been featured on **Hanbitsa, a platform that highlights research by Korean scientists published in leading life-science journals.**
-
-I am honored to have our work featured on Hanbitsa (short for “Scientists Who Shine for Korea”), a platform that highlights notable publications by Korean researchers.
+I am honored to have our recent *Nature Physics* paper featured on **Hanbitsa (short for “Scientists Who Shine for Korea”), a platform that showcases notable publications by Korean researchers in leading life-science journals.**
 
 <div style="text-align:center;">
   <img src="/assets/hanbitsa.png" width="500">
 </div>
+
 
 🔗 [Hanbitsa Interview (KOR)](https://www.ibric.org/bric/hanbitsa/han-interview.do?mode=view&id=100623&authorId=51572&pager.offset=0&pagerLimit=10#!/list)
 
