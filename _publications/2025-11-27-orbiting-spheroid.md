@@ -4,7 +4,7 @@ author_profile: false
 read_time: true
 share: false
 comments: false
-title: "What makes you take the first step out of going in circles"
+title: "Rotating spheroids pave their way for invasion"
 date: 2025-11-27
 tags: []
 classes: wide
